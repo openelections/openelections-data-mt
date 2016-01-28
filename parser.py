@@ -1,18 +1,12 @@
 import unicodecsv
 
 headers = ['county', 'office', 'district', 'party', 'candidate', 'votes']
-offices = ['PRESIDENT OF THE UNITED STATES', 'United States Senator', 'Representative in Congress', 'Governor', 'State Senator', 'State Representative', 'Secretary of State', 'Attorney General', 'State Treasurer']
-office_lookup = {
-    'United States Senator' : 'U.S. Senate', 'Representative in Congress' : 'U.S. House', 'Governor' : 'Governor', 'State Senator' : 'State Senate',
-    'State Representative' : 'State House', 'Secretary of State' : 'Secretary of State', 'Attorney General' : 'Attorney General',
-    'State Treasurer' : 'State Treasurer'
-}
 
-with open('20141104__mt__general__state_legislative.csv', 'wb') as csvfile:
+with open('state_legislative.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    lines = open('/Users/derekwillis/Downloads/2014-General-Official-Legislative-Canvass.txt').readlines()
+    lines = open('/Users/derekwillis/Downloads/2014-Primary-Official-Legislative-Canvass.txt').readlines()
     for line in lines:
         if line.strip() == '':
             continue
