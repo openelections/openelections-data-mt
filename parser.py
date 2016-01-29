@@ -12,7 +12,7 @@ with open('state_legislative.csv', 'wb') as csvfile:
             continue
         if 'MONTANA SECRETARY OF STATE LINDA McCULLOCH' in line:
             continue
-        if 'ELECTION CANVASS' in line:
+        if 'Affiliation' in line:
             continue
         print line
         if any(x in line for x in ['Democrat', 'Republican', 'Libertarian']):
