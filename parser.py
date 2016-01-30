@@ -6,7 +6,7 @@ with open('state_legislative.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    lines = open('/Users/DW-Admin/Downloads/2006_Legislative_Primary.txt').readlines()
+    lines = open('/Users/derekwillis/Downloads/2000-GenLeg.txt').readlines()
     for line in lines:
         if line.strip() == '':
             continue
@@ -15,6 +15,10 @@ with open('state_legislative.csv', 'wb') as csvfile:
         if 'Affiliation' in line:
             continue
         if 'Incumbent' in line:
+            continue
+        if 'Libertarian' in line:
+            continue
+        if 'Independent' in line:
             continue
         print line
 #        if any(x in line for x in ['Democrat', 'Republican', 'Libertarian']):
@@ -39,4 +43,4 @@ with open('state_legislative.csv', 'wb') as csvfile:
             results = [x.replace(',','') for x in bits[1:]]
             county_results = zip(candidates, results)
             for (candidate, party), result in county_results:
-                w.writerow([county, office, district, party.split(')')[0], candidate, result])
+                w.writerow([county, office, district, party.split(')')[0].strip(), candidate, result])
