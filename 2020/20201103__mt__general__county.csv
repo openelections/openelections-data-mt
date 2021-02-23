@@ -1,0 +1,1529 @@
+county,office,district,party,candidate,votes
+Beaverhead,President,,DEM,Joe Biden,1608
+Big Horn,President,,DEM,Joe Biden,2491
+Blaine,President,,DEM,Joe Biden,1589
+Broadwater,President,,DEM,Joe Biden,835
+Carbon,President,,DEM,Joe Biden,2421
+Carter,President,,DEM,Joe Biden,74
+Cascade,President,,DEM,Joe Biden,15456
+Chouteau,President,,DEM,Joe Biden,991
+Custer,President,,DEM,Joe Biden,1514
+Daniels,President,,DEM,Joe Biden,195
+Dawson,President,,DEM,Joe Biden,962
+Deer Lodge,President,,DEM,Joe Biden,2562
+Fallon,President,,DEM,Joe Biden,172
+Fergus,President,,DEM,Joe Biden,1496
+Flathead,President,,DEM,Joe Biden,20274
+Gallatin,President,,DEM,Joe Biden,37044
+Garfield,President,,DEM,Joe Biden,41
+Glacier,President,,DEM,Joe Biden,3610
+Golden Valley,President,,DEM,Joe Biden,78
+Granite,President,,DEM,Joe Biden,638
+Hill,President,,DEM,Joe Biden,2981
+Jefferson,President,,DEM,Joe Biden,2625
+Judith Basin,President,,DEM,Joe Biden,275
+Lake,President,,DEM,Joe Biden,6916
+Lewis & Clark,President,,DEM,Joe Biden,19743
+Liberty,President,,DEM,Joe Biden,249
+Lincoln,President,,DEM,Joe Biden,2835
+Madison,President,,DEM,Joe Biden,1771
+McCone,President,,DEM,Joe Biden,155
+Meagher,President,,DEM,Joe Biden,258
+Mineral,President,,DEM,Joe Biden,686
+Missoula,President,,DEM,Joe Biden,43357
+Musselshell,President,,DEM,Joe Biden,413
+Park,President,,DEM,Joe Biden,5280
+Petroleum,President,,DEM,Joe Biden,39
+Phillips,President,,DEM,Joe Biden,416
+Pondera,President,,DEM,Joe Biden,903
+Powder River,President,,DEM,Joe Biden,154
+Powell,President,,DEM,Joe Biden,752
+Prairie,President,,DEM,Joe Biden,126
+Ravalli,President,,DEM,Joe Biden,8763
+Richland,President,,DEM,Joe Biden,875
+Roosevelt,President,,DEM,Joe Biden,1910
+Rosebud,President,,DEM,Joe Biden,1199
+Sanders,President,,DEM,Joe Biden,1820
+Sheridan,President,,DEM,Joe Biden,574
+Silver Bow,President,,DEM,Joe Biden,10392
+Stillwater,President,,DEM,Joe Biden,1156
+Sweet Grass,President,,DEM,Joe Biden,549
+Teton,President,,DEM,Joe Biden,1007
+Toole,President,,DEM,Joe Biden,467
+Treasure,President,,DEM,Joe Biden,78
+Valley,President,,DEM,Joe Biden,1030
+Wheatland,President,,DEM,Joe Biden,225
+Wibaux,President,,DEM,Joe Biden,77
+Yellowstone,President,,DEM,Joe Biden,30679
+Beaverhead,President,,REP,Donald Trump,3923
+Big Horn,President,,REP,Donald Trump,2207
+Blaine,President,,REP,Donald Trump,1469
+Broadwater,President,,REP,Donald Trump,3173
+Carbon,President,,REP,Donald Trump,4468
+Carter,President,,REP,Donald Trump,775
+Cascade,President,,REP,Donald Trump,23315
+Chouteau,President,,REP,Donald Trump,1891
+Custer,President,,REP,Donald Trump,4205
+Daniels,President,,REP,Donald Trump,799
+Dawson,President,,REP,Donald Trump,3758
+Deer Lodge,President,,REP,Donald Trump,2186
+Fallon,President,,REP,Donald Trump,1375
+Fergus,President,,REP,Donald Trump,4869
+Flathead,President,,REP,Donald Trump,38321
+Gallatin,President,,REP,Donald Trump,31696
+Garfield,President,,REP,Donald Trump,764
+Glacier,President,,REP,Donald Trump,1884
+Golden Valley,President,,REP,Donald Trump,414
+Granite,President,,REP,Donald Trump,1419
+Hill,President,,REP,Donald Trump,3957
+Jefferson,President,,REP,Donald Trump,5345
+Judith Basin,President,,REP,Donald Trump,1040
+Lake,President,,REP,Donald Trump,9322
+Lewis & Clark,President,,REP,Donald Trump,21409
+Liberty,President,,REP,Donald Trump,821
+Lincoln,President,,REP,Donald Trump,8672
+Madison,President,,REP,Donald Trump,4191
+McCone,President,,REP,Donald Trump,956
+Meagher,President,,REP,Donald Trump,833
+Mineral,President,,REP,Donald Trump,1828
+Missoula,President,,REP,Donald Trump,26347
+Musselshell,President,,REP,Donald Trump,2423
+Park,President,,REP,Donald Trump,6025
+Petroleum,President,,REP,Donald Trump,298
+Phillips,President,,REP,Donald Trump,1936
+Pondera,President,,REP,Donald Trump,2031
+Powder River,President,,REP,Donald Trump,970
+Powell,President,,REP,Donald Trump,2355
+Prairie,President,,REP,Donald Trump,603
+Ravalli,President,,REP,Donald Trump,19114
+Richland,President,,REP,Donald Trump,4800
+Roosevelt,President,,REP,Donald Trump,1996
+Rosebud,President,,REP,Donald Trump,2486
+Sanders,President,,REP,Donald Trump,5660
+Sheridan,President,,REP,Donald Trump,1403
+Silver Bow,President,,REP,Donald Trump,7745
+Stillwater,President,,REP,Donald Trump,4462
+Sweet Grass,President,,REP,Donald Trump,1840
+Teton,President,,REP,Donald Trump,2608
+Toole,President,,REP,Donald Trump,1596
+Treasure,President,,REP,Donald Trump,373
+Valley,President,,REP,Donald Trump,3135
+Wheatland,President,,REP,Donald Trump,823
+Wibaux,President,,REP,Donald Trump,516
+Yellowstone,President,,REP,Donald Trump,50772
+Beaverhead,President,,LIB,Jo Jorgensen,130
+Big Horn,President,,LIB,Jo Jorgensen,86
+Blaine,President,,LIB,Jo Jorgensen,59
+Broadwater,President,,LIB,Jo Jorgensen,89
+Carbon,President,,LIB,Jo Jorgensen,163
+Carter,President,,LIB,Jo Jorgensen,15
+Cascade,President,,LIB,Jo Jorgensen,1114
+Chouteau,President,,LIB,Jo Jorgensen,83
+Custer,President,,LIB,Jo Jorgensen,141
+Daniels,President,,LIB,Jo Jorgensen,20
+Dawson,President,,LIB,Jo Jorgensen,105
+Deer Lodge,President,,LIB,Jo Jorgensen,143
+Fallon,President,,LIB,Jo Jorgensen,28
+Fergus,President,,LIB,Jo Jorgensen,142
+Flathead,President,,LIB,Jo Jorgensen,1341
+Gallatin,President,,LIB,Jo Jorgensen,2239
+Garfield,President,,LIB,Jo Jorgensen,8
+Glacier,President,,LIB,Jo Jorgensen,123
+Golden Valley,President,,LIB,Jo Jorgensen,11
+Granite,President,,LIB,Jo Jorgensen,45
+Hill,President,,LIB,Jo Jorgensen,244
+Jefferson,President,,LIB,Jo Jorgensen,181
+Judith Basin,President,,LIB,Jo Jorgensen,29
+Lake,President,,LIB,Jo Jorgensen,388
+Lewis & Clark,President,,LIB,Jo Jorgensen,1113
+Liberty,President,,LIB,Jo Jorgensen,13
+Lincoln,President,,LIB,Jo Jorgensen,240
+Madison,President,,LIB,Jo Jorgensen,125
+McCone,President,,LIB,Jo Jorgensen,17
+Meagher,President,,LIB,Jo Jorgensen,19
+Mineral,President,,LIB,Jo Jorgensen,49
+Missoula,President,,LIB,Jo Jorgensen,1791
+Musselshell,President,,LIB,Jo Jorgensen,45
+Park,President,,LIB,Jo Jorgensen,261
+Petroleum,President,,LIB,Jo Jorgensen,11
+Phillips,President,,LIB,Jo Jorgensen,30
+Pondera,President,,LIB,Jo Jorgensen,61
+Powder River,President,,LIB,Jo Jorgensen,12
+Powell,President,,LIB,Jo Jorgensen,72
+Prairie,President,,LIB,Jo Jorgensen,15
+Ravalli,President,,LIB,Jo Jorgensen,630
+Richland,President,,LIB,Jo Jorgensen,123
+Roosevelt,President,,LIB,Jo Jorgensen,111
+Rosebud,President,,LIB,Jo Jorgensen,88
+Sanders,President,,LIB,Jo Jorgensen,142
+Sheridan,President,,LIB,Jo Jorgensen,53
+Silver Bow,President,,LIB,Jo Jorgensen,521
+Stillwater,President,,LIB,Jo Jorgensen,106
+Sweet Grass,President,,LIB,Jo Jorgensen,57
+Teton,President,,LIB,Jo Jorgensen,64
+Toole,President,,LIB,Jo Jorgensen,56
+Treasure,President,,LIB,Jo Jorgensen,9
+Valley,President,,LIB,Jo Jorgensen,96
+Wheatland,President,,LIB,Jo Jorgensen,20
+Wibaux,President,,LIB,Jo Jorgensen,5
+Yellowstone,President,,LIB,Jo Jorgensen,2370
+Beaverhead,US Senate,,DEM,Steve Bullock,1890
+Big Horn,US Senate,,DEM,Steve Bullock,2687
+Blaine,US Senate,,DEM,Steve Bullock,1792
+Broadwater,US Senate,,DEM,Steve Bullock,1003
+Carbon,US Senate,,DEM,Steve Bullock,2591
+Carter,US Senate,,DEM,Steve Bullock,94
+Cascade,US Senate,,DEM,Steve Bullock,17727
+Chouteau,US Senate,,DEM,Steve Bullock,1179
+Custer,US Senate,,DEM,Steve Bullock,1865
+Daniels,US Senate,,DEM,Steve Bullock,243
+Dawson,US Senate,,DEM,Steve Bullock,1189
+Deer Lodge,US Senate,,DEM,Steve Bullock,2961
+Fallon,US Senate,,DEM,Steve Bullock,235
+Fergus,US Senate,,DEM,Steve Bullock,1788
+Flathead,US Senate,,DEM,Steve Bullock,22180
+Gallatin,US Senate,,DEM,Steve Bullock,39540
+Garfield,US Senate,,DEM,Steve Bullock,73
+Glacier,US Senate,,DEM,Steve Bullock,4032
+Golden Valley,US Senate,,DEM,Steve Bullock,99
+Granite,US Senate,,DEM,Steve Bullock,741
+Hill,US Senate,,DEM,Steve Bullock,3477
+Jefferson,US Senate,,DEM,Steve Bullock,2967
+Judith Basin,US Senate,,DEM,Steve Bullock,322
+Lake,US Senate,,DEM,Steve Bullock,7664
+Lewis & Clark,US Senate,,DEM,Steve Bullock,21955
+Liberty,US Senate,,DEM,Steve Bullock,299
+Lincoln,US Senate,,DEM,Steve Bullock,3228
+Madison,US Senate,,DEM,Steve Bullock,2015
+McCone,US Senate,,DEM,Steve Bullock,177
+Meagher,US Senate,,DEM,Steve Bullock,306
+Mineral,US Senate,,DEM,Steve Bullock,816
+Missoula,US Senate,,DEM,Steve Bullock,46268
+Musselshell,US Senate,,DEM,Steve Bullock,538
+Park,US Senate,,DEM,Steve Bullock,5766
+Petroleum,US Senate,,DEM,Steve Bullock,51
+Phillips,US Senate,,DEM,Steve Bullock,483
+Pondera,US Senate,,DEM,Steve Bullock,1072
+Powder River,US Senate,,DEM,Steve Bullock,180
+Powell,US Senate,,DEM,Steve Bullock,936
+Prairie,US Senate,,DEM,Steve Bullock,161
+Ravalli,US Senate,,DEM,Steve Bullock,9868
+Richland,US Senate,,DEM,Steve Bullock,1122
+Roosevelt,US Senate,,DEM,Steve Bullock,2142
+Rosebud,US Senate,,DEM,Steve Bullock,1338
+Sanders,US Senate,,DEM,Steve Bullock,2191
+Sheridan,US Senate,,DEM,Steve Bullock,668
+Silver Bow,US Senate,,DEM,Steve Bullock,12183
+Stillwater,US Senate,,DEM,Steve Bullock,1374
+Sweet Grass,US Senate,,DEM,Steve Bullock,625
+Teton,US Senate,,DEM,Steve Bullock,1165
+Toole,US Senate,,DEM,Steve Bullock,595
+Treasure,US Senate,,DEM,Steve Bullock,88
+Valley,US Senate,,DEM,Steve Bullock,1306
+Wheatland,US Senate,,DEM,Steve Bullock,270
+Wibaux,US Senate,,DEM,Steve Bullock,105
+Yellowstone,US Senate,,DEM,Steve Bullock,34833
+Beaverhead,US Senate,,REP,Steve Daines,3775
+Big Horn,US Senate,,REP,Steve Daines,2106
+Blaine,US Senate,,REP,Steve Daines,1343
+Broadwater,US Senate,,REP,Steve Daines,3107
+Carbon,US Senate,,REP,Steve Daines,4404
+Carter,US Senate,,REP,Steve Daines,767
+Cascade,US Senate,,REP,Steve Daines,22312
+Chouteau,US Senate,,REP,Steve Daines,1813
+Custer,US Senate,,REP,Steve Daines,3995
+Daniels,US Senate,,REP,Steve Daines,787
+Dawson,US Senate,,REP,Steve Daines,3634
+Deer Lodge,US Senate,,REP,Steve Daines,1921
+Fallon,US Senate,,REP,Steve Daines,1341
+Fergus,US Senate,,REP,Steve Daines,4746
+Flathead,US Senate,,REP,Steve Daines,37861
+Gallatin,US Senate,,REP,Steve Daines,31829
+Garfield,US Senate,,REP,Steve Daines,736
+Glacier,US Senate,,REP,Steve Daines,1687
+Golden Valley,US Senate,,REP,Steve Daines,405
+Granite,US Senate,,REP,Steve Daines,1360
+Hill,US Senate,,REP,Steve Daines,3746
+Jefferson,US Senate,,REP,Steve Daines,5206
+Judith Basin,US Senate,,REP,Steve Daines,1026
+Lake,US Senate,,REP,Steve Daines,8964
+Lewis & Clark,US Senate,,REP,Steve Daines,20554
+Liberty,US Senate,,REP,Steve Daines,789
+Lincoln,US Senate,,REP,Steve Daines,8490
+Madison,US Senate,,REP,Steve Daines,4103
+McCone,US Senate,,REP,Steve Daines,946
+Meagher,US Senate,,REP,Steve Daines,812
+Mineral,US Senate,,REP,Steve Daines,1735
+Missoula,US Senate,,REP,Steve Daines,25529
+Musselshell,US Senate,,REP,Steve Daines,2341
+Park,US Senate,,REP,Steve Daines,5841
+Petroleum,US Senate,,REP,Steve Daines,300
+Phillips,US Senate,,REP,Steve Daines,1895
+Pondera,US Senate,,REP,Steve Daines,1933
+Powder River,US Senate,,REP,Steve Daines,957
+Powell,US Senate,,REP,Steve Daines,2240
+Prairie,US Senate,,REP,Steve Daines,586
+Ravalli,US Senate,,REP,Steve Daines,18706
+Richland,US Senate,,REP,Steve Daines,4669
+Roosevelt,US Senate,,REP,Steve Daines,1891
+Rosebud,US Senate,,REP,Steve Daines,2436
+Sanders,US Senate,,REP,Steve Daines,5395
+Sheridan,US Senate,,REP,Steve Daines,1356
+Silver Bow,US Senate,,REP,Steve Daines,6641
+Stillwater,US Senate,,REP,Steve Daines,4370
+Sweet Grass,US Senate,,REP,Steve Daines,1834
+Teton,US Senate,,REP,Steve Daines,2541
+Toole,US Senate,,REP,Steve Daines,1528
+Treasure,US Senate,,REP,Steve Daines,376
+Valley,US Senate,,REP,Steve Daines,2953
+Wheatland,US Senate,,REP,Steve Daines,789
+Wibaux,US Senate,,REP,Steve Daines,491
+Yellowstone,US Senate,,REP,Steve Daines,49276
+Beaverhead,US House,,DEM,Kathleen Williams,1817
+Big Horn,US House,,DEM,Kathleen Williams,2681
+Blaine,US House,,DEM,Kathleen Williams,1707
+Broadwater,US House,,DEM,Kathleen Williams,935
+Carbon,US House,,DEM,Kathleen Williams,2590
+Carter,US House,,DEM,Kathleen Williams,96
+Cascade,US House,,DEM,Kathleen Williams,17043
+Chouteau,US House,,DEM,Kathleen Williams,1140
+Custer,US House,,DEM,Kathleen Williams,1773
+Daniels,US House,,DEM,Kathleen Williams,229
+Dawson,US House,,DEM,Kathleen Williams,1161
+Deer Lodge,US House,,DEM,Kathleen Williams,2831
+Fallon,US House,,DEM,Kathleen Williams,251
+Fergus,US House,,DEM,Kathleen Williams,1753
+Flathead,US House,,DEM,Kathleen Williams,21271
+Gallatin,US House,,DEM,Kathleen Williams,38501
+Garfield,US House,,DEM,Kathleen Williams,63
+Glacier,US House,,DEM,Kathleen Williams,3885
+Golden Valley,US House,,DEM,Kathleen Williams,47
+Granite,US House,,DEM,Kathleen Williams,700
+Hill,US House,,DEM,Kathleen Williams,3361
+Jefferson,US House,,DEM,Kathleen Williams,2835
+Judith Basin,US House,,DEM,Kathleen Williams,346
+Lake,US House,,DEM,Kathleen Williams,7250
+Lewis & Clark,US House,,DEM,Kathleen Williams,21050
+Liberty,US House,,DEM,Kathleen Williams,304
+Lincoln,US House,,DEM,Kathleen Williams,3112
+Madison,US House,,DEM,Kathleen Williams,1943
+McCone,US House,,DEM,Kathleen Williams,187
+Meagher,US House,,DEM,Kathleen Williams,273
+Mineral,US House,,DEM,Kathleen Williams,679
+Missoula,US House,,DEM,Kathleen Williams,44749
+Musselshell,US House,,DEM,Kathleen Williams,519
+Park,US House,,DEM,Kathleen Williams,5582
+Petroleum,US House,,DEM,Kathleen Williams,51
+Phillips,US House,,DEM,Kathleen Williams,489
+Pondera,US House,,DEM,Kathleen Williams,1019
+Powder River,US House,,DEM,Kathleen Williams,185
+Powell,US House,,DEM,Kathleen Williams,899
+Prairie,US House,,DEM,Kathleen Williams,148
+Ravalli,US House,,DEM,Kathleen Williams,9350
+Richland,US House,,DEM,Kathleen Williams,1054
+Roosevelt,US House,,DEM,Kathleen Williams,2060
+Rosebud,US House,,DEM,Kathleen Williams,1325
+Sanders,US House,,DEM,Kathleen Williams,2009
+Sheridan,US House,,DEM,Kathleen Williams,681
+Silver Bow,US House,,DEM,Kathleen Williams,11511
+Stillwater,US House,,DEM,Kathleen Williams,1343
+Sweet Grass,US House,,DEM,Kathleen Williams,606
+Teton,US House,,DEM,Kathleen Williams,1127
+Toole,US House,,DEM,Kathleen Williams,551
+Treasure,US House,,DEM,Kathleen Williams,104
+Valley,US House,,DEM,Kathleen Williams,1232
+Wheatland,US House,,DEM,Kathleen Williams,271
+Wibaux,US House,,DEM,Kathleen Williams,98
+Yellowstone,US House,,DEM,Kathleen Williams,33563
+Beaverhead,US House,,REP,Matt Rosendale,3811
+Big Horn,US House,,REP,Matt Rosendale,2103
+Blaine,US House,,REP,Matt Rosendale,1391
+Broadwater,US House,,REP,Matt Rosendale,3150
+Carbon,US House,,REP,Matt Rosendale,4465
+Carter,US House,,REP,Matt Rosendale,758
+Cascade,US House,,REP,Matt Rosendale,22724
+Chouteau,US House,,REP,Matt Rosendale,1820
+Custer,US House,,REP,Matt Rosendale,4072
+Daniels,US House,,REP,Matt Rosendale,786
+Dawson,US House,,REP,Matt Rosendale,3639
+Deer Lodge,US House,,REP,Matt Rosendale,2036
+Fallon,US House,,REP,Matt Rosendale,1312
+Fergus,US House,,REP,Matt Rosendale,4715
+Flathead,US House,,REP,Matt Rosendale,38426
+Gallatin,US House,,REP,Matt Rosendale,32217
+Garfield,US House,,REP,Matt Rosendale,738
+Glacier,US House,,REP,Matt Rosendale,1783
+Golden Valley,US House,,REP,Matt Rosendale,412
+Granite,US House,,REP,Matt Rosendale,1388
+Hill,US House,,REP,Matt Rosendale,3807
+Jefferson,US House,,REP,Matt Rosendale,5288
+Judith Basin,US House,,REP,Matt Rosendale,998
+Lake,US House,,REP,Matt Rosendale,9239
+Lewis & Clark,US House,,REP,Matt Rosendale,21045
+Liberty,US House,,REP,Matt Rosendale,776
+Lincoln,US House,,REP,Matt Rosendale,8587
+Madison,US House,,REP,Matt Rosendale,4113
+McCone,US House,,REP,Matt Rosendale,932
+Meagher,US House,,REP,Matt Rosendale,834
+Mineral,US House,,REP,Matt Rosendale,1647
+Missoula,US House,,REP,Matt Rosendale,26662
+Musselshell,US House,,REP,Matt Rosendale,2341
+Park,US House,,REP,Matt Rosendale,5933
+Petroleum,US House,,REP,Matt Rosendale,298
+Phillips,US House,,REP,Matt Rosendale,1860
+Pondera,US House,,REP,Matt Rosendale,1963
+Powder River,US House,,REP,Matt Rosendale,953
+Powell,US House,,REP,Matt Rosendale,2278
+Prairie,US House,,REP,Matt Rosendale,568
+Ravalli,US House,,REP,Matt Rosendale,19114
+Richland,US House,,REP,Matt Rosendale,4694
+Roosevelt,US House,,REP,Matt Rosendale,1927
+Rosebud,US House,,REP,Matt Rosendale,2426
+Sanders,US House,,REP,Matt Rosendale,5574
+Sheridan,US House,,REP,Matt Rosendale,1328
+Silver Bow,US House,,REP,Matt Rosendale,7175
+Stillwater,US House,,REP,Matt Rosendale,4366
+Sweet Grass,US House,,REP,Matt Rosendale,1843
+Teton,US House,,REP,Matt Rosendale,2557
+Toole,US House,,REP,Matt Rosendale,1546
+Treasure,US House,,REP,Matt Rosendale,356
+Valley,US House,,REP,Matt Rosendale,2966
+Wheatland,US House,,REP,Matt Rosendale,792
+Wibaux,US House,,REP,Matt Rosendale,492
+Yellowstone,US House,,REP,Matt Rosendale,50145
+Beaverhead,Governor,,DEM,Mike Cooney,1668
+Big Horn,Governor,,DEM,Mike Cooney,2513
+Blaine,Governor,,DEM,Mike Cooney,1619
+Broadwater,Governor,,DEM,Mike Cooney,928
+Carbon,Governor,,DEM,Mike Cooney,2498
+Carter,Governor,,DEM,Mike Cooney,91
+Cascade,Governor,,DEM,Mike Cooney,15922
+Chouteau,Governor,,DEM,Mike Cooney,1048
+Custer,Governor,,DEM,Mike Cooney,1619
+Daniels,Governor,,DEM,Mike Cooney,217
+Dawson,Governor,,DEM,Mike Cooney,1124
+Deer Lodge,Governor,,DEM,Mike Cooney,2747
+Fallon,Governor,,DEM,Mike Cooney,218
+Fergus,Governor,,DEM,Mike Cooney,1567
+Flathead,Governor,,DEM,Mike Cooney,20387
+Gallatin,Governor,,DEM,Mike Cooney,36788
+Garfield,Governor,,DEM,Mike Cooney,48
+Glacier,Governor,,DEM,Mike Cooney,3730
+Golden Valley,Governor,,DEM,Mike Cooney,80
+Granite,Governor,,DEM,Mike Cooney,659
+Hill,Governor,,DEM,Mike Cooney,3146
+Jefferson,Governor,,DEM,Mike Cooney,2791
+Judith Basin,Governor,,DEM,Mike Cooney,281
+Lake,Governor,,DEM,Mike Cooney,6885
+Lewis & Clark,Governor,,DEM,Mike Cooney,21022
+Liberty,Governor,,DEM,Mike Cooney,268
+Lincoln,Governor,,DEM,Mike Cooney,3001
+Madison,Governor,,DEM,Mike Cooney,1877
+McCone,Governor,,DEM,Mike Cooney,165
+Meagher,Governor,,DEM,Mike Cooney,256
+Mineral,Governor,,DEM,Mike Cooney,706
+Missoula,Governor,,DEM,Mike Cooney,43426
+Musselshell,Governor,,DEM,Mike Cooney,450
+Park,Governor,,DEM,Mike Cooney,5364
+Petroleum,Governor,,DEM,Mike Cooney,44
+Phillips,Governor,,DEM,Mike Cooney,412
+Pondera,Governor,,DEM,Mike Cooney,912
+Powder River,Governor,,DEM,Mike Cooney,162
+Powell,Governor,,DEM,Mike Cooney,849
+Prairie,Governor,,DEM,Mike Cooney,160
+Ravalli,Governor,,DEM,Mike Cooney,8883
+Richland,Governor,,DEM,Mike Cooney,1017
+Roosevelt,Governor,,DEM,Mike Cooney,1961
+Rosebud,Governor,,DEM,Mike Cooney,1236
+Sanders,Governor,,DEM,Mike Cooney,1870
+Sheridan,Governor,,DEM,Mike Cooney,634
+Silver Bow,Governor,,DEM,Mike Cooney,11495
+Stillwater,Governor,,DEM,Mike Cooney,1263
+Sweet Grass,Governor,,DEM,Mike Cooney,553
+Teton,Governor,,DEM,Mike Cooney,1053
+Toole,Governor,,DEM,Mike Cooney,468
+Treasure,Governor,,DEM,Mike Cooney,89
+Valley,Governor,,DEM,Mike Cooney,1182
+Wheatland,Governor,,DEM,Mike Cooney,251
+Wibaux,Governor,,DEM,Mike Cooney,105
+Yellowstone,Governor,,DEM,Mike Cooney,31152
+Beaverhead,Governor,,REP,Greg Gianforte,3779
+Big Horn,Governor,,REP,Greg Gianforte,2078
+Blaine,Governor,,REP,Greg Gianforte,1365
+Broadwater,Governor,,REP,Greg Gianforte,3032
+Carbon,Governor,,REP,Greg Gianforte,4303
+Carter,Governor,,REP,Greg Gianforte,748
+Cascade,Governor,,REP,Greg Gianforte,22221
+Chouteau,Governor,,REP,Greg Gianforte,1816
+Custer,Governor,,REP,Greg Gianforte,3971
+Daniels,Governor,,REP,Greg Gianforte,768
+Dawson,Governor,,REP,Greg Gianforte,3524
+Deer Lodge,Governor,,REP,Greg Gianforte,1881
+Fallon,Governor,,REP,Greg Gianforte,1288
+Fergus,Governor,,REP,Greg Gianforte,4737
+Flathead,Governor,,REP,Greg Gianforte,37213
+Gallatin,Governor,,REP,Greg Gianforte,31368
+Garfield,Governor,,REP,Greg Gianforte,751
+Glacier,Governor,,REP,Greg Gianforte,1709
+Golden Valley,Governor,,REP,Greg Gianforte,409
+Granite,Governor,,REP,Greg Gianforte,1348
+Hill,Governor,,REP,Greg Gianforte,3642
+Jefferson,Governor,,REP,Greg Gianforte,5097
+Judith Basin,Governor,,REP,Greg Gianforte,1017
+Lake,Governor,,REP,Greg Gianforte,8913
+Lewis & Clark,Governor,,REP,Greg Gianforte,19969
+Liberty,Governor,,REP,Greg Gianforte,788
+Lincoln,Governor,,REP,Greg Gianforte,8279
+Madison,Governor,,REP,Greg Gianforte,3992
+McCone,Governor,,REP,Greg Gianforte,921
+Meagher,Governor,,REP,Greg Gianforte,823
+Mineral,Governor,,REP,Greg Gianforte,1715
+Missoula,Governor,,REP,Greg Gianforte,25448
+Musselshell,Governor,,REP,Greg Gianforte,2318
+Park,Governor,,REP,Greg Gianforte,5798
+Petroleum,Governor,,REP,Greg Gianforte,299
+Phillips,Governor,,REP,Greg Gianforte,1908
+Pondera,Governor,,REP,Greg Gianforte,1981
+Powder River,Governor,,REP,Greg Gianforte,943
+Powell,Governor,,REP,Greg Gianforte,2212
+Prairie,Governor,,REP,Greg Gianforte,544
+Ravalli,Governor,,REP,Greg Gianforte,18557
+Richland,Governor,,REP,Greg Gianforte,4506
+Roosevelt,Governor,,REP,Greg Gianforte,1859
+Rosebud,Governor,,REP,Greg Gianforte,2363
+Sanders,Governor,,REP,Greg Gianforte,5346
+Sheridan,Governor,,REP,Greg Gianforte,1300
+Silver Bow,Governor,,REP,Greg Gianforte,6490
+Stillwater,Governor,,REP,Greg Gianforte,4292
+Sweet Grass,Governor,,REP,Greg Gianforte,1801
+Teton,Governor,,REP,Greg Gianforte,2497
+Toole,Governor,,REP,Greg Gianforte,1546
+Treasure,Governor,,REP,Greg Gianforte,358
+Valley,Governor,,REP,Greg Gianforte,2899
+Wheatland,Governor,,REP,Greg Gianforte,767
+Wibaux,Governor,,REP,Greg Gianforte,465
+Yellowstone,Governor,,REP,Greg Gianforte,48586
+Beaverhead,Governor,,LIB,Lyman Bishop,209
+Big Horn,Governor,,LIB,Lyman Bishop,203
+Blaine,Governor,,LIB,Lyman Bishop,133
+Broadwater,Governor,,LIB,Lyman Bishop,139
+Carbon,Governor,,LIB,Lyman Bishop,275
+Carter,Governor,,LIB,Lyman Bishop,18
+Cascade,Governor,,LIB,Lyman Bishop,1689
+Chouteau,Governor,,LIB,Lyman Bishop,108
+Custer,Governor,,LIB,Lyman Bishop,279
+Daniels,Governor,,LIB,Lyman Bishop,24
+Dawson,Governor,,LIB,Lyman Bishop,178
+Deer Lodge,Governor,,LIB,Lyman Bishop,245
+Fallon,Governor,,LIB,Lyman Bishop,49
+Fergus,Governor,,LIB,Lyman Bishop,195
+Flathead,Governor,,LIB,Lyman Bishop,2225
+Gallatin,Governor,,LIB,Lyman Bishop,2800
+Garfield,Governor,,LIB,Lyman Bishop,14
+Glacier,Governor,,LIB,Lyman Bishop,245
+Golden Valley,Governor,,LIB,Lyman Bishop,14
+Granite,Governor,,LIB,Lyman Bishop,87
+Hill,Governor,,LIB,Lyman Bishop,393
+Jefferson,Governor,,LIB,Lyman Bishop,281
+Judith Basin,Governor,,LIB,Lyman Bishop,48
+Lake,Governor,,LIB,Lyman Bishop,791
+Lewis & Clark,Governor,,LIB,Lyman Bishop,1448
+Liberty,Governor,,LIB,Lyman Bishop,27
+Lincoln,Governor,,LIB,Lyman Bishop,424
+Madison,Governor,,LIB,Lyman Bishop,219
+McCone,Governor,,LIB,Lyman Bishop,31
+Meagher,Governor,,LIB,Lyman Bishop,33
+Mineral,Governor,,LIB,Lyman Bishop,131
+Missoula,Governor,,LIB,Lyman Bishop,2706
+Musselshell,Governor,,LIB,Lyman Bishop,102
+Park,Governor,,LIB,Lyman Bishop,418
+Petroleum,Governor,,LIB,Lyman Bishop,7
+Phillips,Governor,,LIB,Lyman Bishop,53
+Pondera,Governor,,LIB,Lyman Bishop,104
+Powder River,Governor,,LIB,Lyman Bishop,24
+Powell,Governor,,LIB,Lyman Bishop,126
+Prairie,Governor,,LIB,Lyman Bishop,26
+Ravalli,Governor,,LIB,Lyman Bishop,1063
+Richland,Governor,,LIB,Lyman Bishop,231
+Roosevelt,Governor,,LIB,Lyman Bishop,187
+Rosebud,Governor,,LIB,Lyman Bishop,148
+Sanders,Governor,,LIB,Lyman Bishop,370
+Sheridan,Governor,,LIB,Lyman Bishop,82
+Silver Bow,Governor,,LIB,Lyman Bishop,788
+Stillwater,Governor,,LIB,Lyman Bishop,171
+Sweet Grass,Governor,,LIB,Lyman Bishop,94
+Teton,Governor,,LIB,Lyman Bishop,135
+Toole,Governor,,LIB,Lyman Bishop,101
+Treasure,Governor,,LIB,Lyman Bishop,13
+Valley,Governor,,LIB,Lyman Bishop,167
+Wheatland,Governor,,LIB,Lyman Bishop,42
+Wibaux,Governor,,LIB,Lyman Bishop,15
+Yellowstone,Governor,,LIB,Lyman Bishop,4051
+Beaverhead,Secretary of State,,DEM,Bryce Bennett,1562
+Big Horn,Secretary of State,,DEM,Bryce Bennett,2561
+Blaine,Secretary of State,,DEM,Bryce Bennett,1626
+Broadwater,Secretary of State,,DEM,Bryce Bennett,808
+Carbon,Secretary of State,,DEM,Bryce Bennett,2374
+Carter,Secretary of State,,DEM,Bryce Bennett,76
+Cascade,Secretary of State,,DEM,Bryce Bennett,15200
+Chouteau,Secretary of State,,DEM,Bryce Bennett,978
+Custer,Secretary of State,,DEM,Bryce Bennett,1527
+Daniels,Secretary of State,,DEM,Bryce Bennett,195
+Dawson,Secretary of State,,DEM,Bryce Bennett,1010
+Deer Lodge,Secretary of State,,DEM,Bryce Bennett,2647
+Fallon,Secretary of State,,DEM,Bryce Bennett,164
+Fergus,Secretary of State,,DEM,Bryce Bennett,1550
+Flathead,Secretary of State,,DEM,Bryce Bennett,19434
+Gallatin,Secretary of State,,DEM,Bryce Bennett,35403
+Garfield,Secretary of State,,DEM,Bryce Bennett,47
+Glacier,Secretary of State,,DEM,Bryce Bennett,3772
+Golden Valley,Secretary of State,,DEM,Bryce Bennett,83
+Granite,Secretary of State,,DEM,Bryce Bennett,635
+Hill,Secretary of State,,DEM,Bryce Bennett,3014
+Jefferson,Secretary of State,,DEM,Bryce Bennett,2553
+Judith Basin,Secretary of State,,DEM,Bryce Bennett,262
+Lake,Secretary of State,,DEM,Bryce Bennett,6720
+Lewis & Clark,Secretary of State,,DEM,Bryce Bennett,19246
+Liberty,Secretary of State,,DEM,Bryce Bennett,249
+Lincoln,Secretary of State,,DEM,Bryce Bennett,2829
+Madison,Secretary of State,,DEM,Bryce Bennett,1732
+McCone,Secretary of State,,DEM,Bryce Bennett,154
+Meagher,Secretary of State,,DEM,Bryce Bennett,247
+Mineral,Secretary of State,,DEM,Bryce Bennett,684
+Missoula,Secretary of State,,DEM,Bryce Bennett,42153
+Musselshell,Secretary of State,,DEM,Bryce Bennett,424
+Park,Secretary of State,,DEM,Bryce Bennett,5200
+Petroleum,Secretary of State,,DEM,Bryce Bennett,46
+Phillips,Secretary of State,,DEM,Bryce Bennett,394
+Pondera,Secretary of State,,DEM,Bryce Bennett,869
+Powder River,Secretary of State,,DEM,Bryce Bennett,138
+Powell,Secretary of State,,DEM,Bryce Bennett,771
+Prairie,Secretary of State,,DEM,Bryce Bennett,138
+Ravalli,Secretary of State,,DEM,Bryce Bennett,8479
+Richland,Secretary of State,,DEM,Bryce Bennett,943
+Roosevelt,Secretary of State,,DEM,Bryce Bennett,1943
+Rosebud,Secretary of State,,DEM,Bryce Bennett,1243
+Sanders,Secretary of State,,DEM,Bryce Bennett,1790
+Sheridan,Secretary of State,,DEM,Bryce Bennett,545
+Silver Bow,Secretary of State,,DEM,Bryce Bennett,10673
+Stillwater,Secretary of State,,DEM,Bryce Bennett,1166
+Sweet Grass,Secretary of State,,DEM,Bryce Bennett,520
+Teton,Secretary of State,,DEM,Bryce Bennett,988
+Toole,Secretary of State,,DEM,Bryce Bennett,477
+Treasure,Secretary of State,,DEM,Bryce Bennett,83
+Valley,Secretary of State,,DEM,Bryce Bennett,1078
+Wheatland,Secretary of State,,DEM,Bryce Bennett,246
+Wibaux,Secretary of State,,DEM,Bryce Bennett,84
+Yellowstone,Secretary of State,,DEM,Bryce Bennett,29884
+Beaverhead,Secretary of State,,REP,Christi Jacobsen,4002
+Big Horn,Secretary of State,,REP,Christi Jacobsen,2168
+Blaine,Secretary of State,,REP,Christi Jacobsen,1454
+Broadwater,Secretary of State,,REP,Christi Jacobsen,3228
+Carbon,Secretary of State,,REP,Christi Jacobsen,4615
+Carter,Secretary of State,,REP,Christi Jacobsen,765
+Cascade,Secretary of State,,REP,Christi Jacobsen,23816
+Chouteau,Secretary of State,,REP,Christi Jacobsen,1912
+Custer,Secretary of State,,REP,Christi Jacobsen,4235
+Daniels,Secretary of State,,REP,Christi Jacobsen,779
+Dawson,Secretary of State,,REP,Christi Jacobsen,3716
+Deer Lodge,Secretary of State,,REP,Christi Jacobsen,2149
+Fallon,Secretary of State,,REP,Christi Jacobsen,1331
+Fergus,Secretary of State,,REP,Christi Jacobsen,4837
+Flathead,Secretary of State,,REP,Christi Jacobsen,39490
+Gallatin,Secretary of State,,REP,Christi Jacobsen,33796
+Garfield,Secretary of State,,REP,Christi Jacobsen,741
+Glacier,Secretary of State,,REP,Christi Jacobsen,1861
+Golden Valley,Secretary of State,,REP,Christi Jacobsen,407
+Granite,Secretary of State,,REP,Christi Jacobsen,1427
+Hill,Secretary of State,,REP,Christi Jacobsen,4061
+Jefferson,Secretary of State,,REP,Christi Jacobsen,5501
+Judith Basin,Secretary of State,,REP,Christi Jacobsen,1044
+Lake,Secretary of State,,REP,Christi Jacobsen,9603
+Lewis & Clark,Secretary of State,,REP,Christi Jacobsen,22535
+Liberty,Secretary of State,,REP,Christi Jacobsen,805
+Lincoln,Secretary of State,,REP,Christi Jacobsen,8727
+Madison,Secretary of State,,REP,Christi Jacobsen,4280
+McCone,Secretary of State,,REP,Christi Jacobsen,939
+Meagher,Secretary of State,,REP,Christi Jacobsen,847
+Mineral,Secretary of State,,REP,Christi Jacobsen,1714
+Missoula,Secretary of State,,REP,Christi Jacobsen,27964
+Musselshell,Secretary of State,,REP,Christi Jacobsen,2403
+Park,Secretary of State,,REP,Christi Jacobsen,6198
+Petroleum,Secretary of State,,REP,Christi Jacobsen,302
+Phillips,Secretary of State,,REP,Christi Jacobsen,1938
+Pondera,Secretary of State,,REP,Christi Jacobsen,2078
+Powder River,Secretary of State,,REP,Christi Jacobsen,958
+Powell,Secretary of State,,REP,Christi Jacobsen,2377
+Prairie,Secretary of State,,REP,Christi Jacobsen,574
+Ravalli,Secretary of State,,REP,Christi Jacobsen,19544
+Richland,Secretary of State,,REP,Christi Jacobsen,4698
+Roosevelt,Secretary of State,,REP,Christi Jacobsen,2000
+Rosebud,Secretary of State,,REP,Christi Jacobsen,2478
+Sanders,Secretary of State,,REP,Christi Jacobsen,5692
+Sheridan,Secretary of State,,REP,Christi Jacobsen,1393
+Silver Bow,Secretary of State,,REP,Christi Jacobsen,7701
+Stillwater,Secretary of State,,REP,Christi Jacobsen,4503
+Sweet Grass,Secretary of State,,REP,Christi Jacobsen,1901
+Teton,Secretary of State,,REP,Christi Jacobsen,2644
+Toole,Secretary of State,,REP,Christi Jacobsen,1600
+Treasure,Secretary of State,,REP,Christi Jacobsen,370
+Valley,Secretary of State,,REP,Christi Jacobsen,3073
+Wheatland,Secretary of State,,REP,Christi Jacobsen,803
+Wibaux,Secretary of State,,REP,Christi Jacobsen,494
+Yellowstone,Secretary of State,,REP,Christi Jacobsen,52468
+Beaverhead,Attorney General,,DEM,Raph Graybill,1659
+Big Horn,Attorney General,,DEM,Raph Graybill,2591
+Blaine,Attorney General,,DEM,Raph Graybill,1674
+Broadwater,Attorney General,,DEM,Raph Graybill,898
+Carbon,Attorney General,,DEM,Raph Graybill,2419
+Carter,Attorney General,,DEM,Raph Graybill,73
+Cascade,Attorney General,,DEM,Raph Graybill,16219
+Chouteau,Attorney General,,DEM,Raph Graybill,1027
+Custer,Attorney General,,DEM,Raph Graybill,1587
+Daniels,Attorney General,,DEM,Raph Graybill,218
+Dawson,Attorney General,,DEM,Raph Graybill,1051
+Deer Lodge,Attorney General,,DEM,Raph Graybill,2739
+Fallon,Attorney General,,DEM,Raph Graybill,166
+Fergus,Attorney General,,DEM,Raph Graybill,1555
+Flathead,Attorney General,,DEM,Raph Graybill,19709
+Gallatin,Attorney General,,DEM,Raph Graybill,36382
+Garfield,Attorney General,,DEM,Raph Graybill,49
+Glacier,Attorney General,,DEM,Raph Graybill,3801
+Golden Valley,Attorney General,,DEM,Raph Graybill,78
+Granite,Attorney General,,DEM,Raph Graybill,645
+Hill,Attorney General,,DEM,Raph Graybill,3147
+Jefferson,Attorney General,,DEM,Raph Graybill,2768
+Judith Basin,Attorney General,,DEM,Raph Graybill,270
+Lake,Attorney General,,DEM,Raph Graybill,6881
+Lewis & Clark,Attorney General,,DEM,Raph Graybill,20634
+Liberty,Attorney General,,DEM,Raph Graybill,285
+Lincoln,Attorney General,,DEM,Raph Graybill,2809
+Madison,Attorney General,,DEM,Raph Graybill,1833
+McCone,Attorney General,,DEM,Raph Graybill,161
+Meagher,Attorney General,,DEM,Raph Graybill,246
+Mineral,Attorney General,,DEM,Raph Graybill,700
+Missoula,Attorney General,,DEM,Raph Graybill,42789
+Musselshell,Attorney General,,DEM,Raph Graybill,417
+Park,Attorney General,,DEM,Raph Graybill,5301
+Petroleum,Attorney General,,DEM,Raph Graybill,40
+Phillips,Attorney General,,DEM,Raph Graybill,433
+Pondera,Attorney General,,DEM,Raph Graybill,935
+Powder River,Attorney General,,DEM,Raph Graybill,135
+Powell,Attorney General,,DEM,Raph Graybill,796
+Prairie,Attorney General,,DEM,Raph Graybill,133
+Ravalli,Attorney General,,DEM,Raph Graybill,8728
+Richland,Attorney General,,DEM,Raph Graybill,939
+Roosevelt,Attorney General,,DEM,Raph Graybill,1986
+Rosebud,Attorney General,,DEM,Raph Graybill,1231
+Sanders,Attorney General,,DEM,Raph Graybill,1859
+Sheridan,Attorney General,,DEM,Raph Graybill,535
+Silver Bow,Attorney General,,DEM,Raph Graybill,11061
+Stillwater,Attorney General,,DEM,Raph Graybill,1166
+Sweet Grass,Attorney General,,DEM,Raph Graybill,545
+Teton,Attorney General,,DEM,Raph Graybill,1040
+Toole,Attorney General,,DEM,Raph Graybill,505
+Treasure,Attorney General,,DEM,Raph Graybill,75
+Valley,Attorney General,,DEM,Raph Graybill,1116
+Wheatland,Attorney General,,DEM,Raph Graybill,237
+Wibaux,Attorney General,,DEM,Raph Graybill,88
+Yellowstone,Attorney General,,DEM,Raph Graybill,30661
+Beaverhead,Attorney General,,REP,Austin Knudsen,3957
+Big Horn,Attorney General,,REP,Austin Knudsen,2182
+Blaine,Attorney General,,REP,Austin Knudsen,1426
+Broadwater,Attorney General,,REP,Austin Knudsen,3139
+Carbon,Attorney General,,REP,Austin Knudsen,4591
+Carter,Attorney General,,REP,Austin Knudsen,773
+Cascade,Attorney General,,REP,Austin Knudsen,22932
+Chouteau,Attorney General,,REP,Austin Knudsen,1912
+Custer,Attorney General,,REP,Austin Knudsen,4226
+Daniels,Attorney General,,REP,Austin Knudsen,782
+Dawson,Attorney General,,REP,Austin Knudsen,3714
+Deer Lodge,Attorney General,,REP,Austin Knudsen,2096
+Fallon,Attorney General,,REP,Austin Knudsen,1343
+Fergus,Attorney General,,REP,Austin Knudsen,4874
+Flathead,Attorney General,,REP,Austin Knudsen,39327
+Gallatin,Attorney General,,REP,Austin Knudsen,32654
+Garfield,Attorney General,,REP,Austin Knudsen,751
+Glacier,Attorney General,,REP,Austin Knudsen,1849
+Golden Valley,Attorney General,,REP,Austin Knudsen,425
+Granite,Attorney General,,REP,Austin Knudsen,1428
+Hill,Attorney General,,REP,Austin Knudsen,3996
+Jefferson,Attorney General,,REP,Austin Knudsen,5313
+Judith Basin,Attorney General,,REP,Austin Knudsen,1065
+Lake,Attorney General,,REP,Austin Knudsen,9591
+Lewis & Clark,Attorney General,,REP,Austin Knudsen,21292
+Liberty,Attorney General,,REP,Austin Knudsen,786
+Lincoln,Attorney General,,REP,Austin Knudsen,8766
+Madison,Attorney General,,REP,Austin Knudsen,4195
+McCone,Attorney General,,REP,Austin Knudsen,956
+Meagher,Attorney General,,REP,Austin Knudsen,849
+Mineral,Attorney General,,REP,Austin Knudsen,1722
+Missoula,Attorney General,,REP,Austin Knudsen,27700
+Musselshell,Attorney General,,REP,Austin Knudsen,2421
+Park,Attorney General,,REP,Austin Knudsen,6133
+Petroleum,Attorney General,,REP,Austin Knudsen,306
+Phillips,Attorney General,,REP,Austin Knudsen,1927
+Pondera,Attorney General,,REP,Austin Knudsen,2032
+Powder River,Attorney General,,REP,Austin Knudsen,977
+Powell,Attorney General,,REP,Austin Knudsen,2376
+Prairie,Attorney General,,REP,Austin Knudsen,585
+Ravalli,Attorney General,,REP,Austin Knudsen,19484
+Richland,Attorney General,,REP,Austin Knudsen,4740
+Roosevelt,Attorney General,,REP,Austin Knudsen,2017
+Rosebud,Attorney General,,REP,Austin Knudsen,2503
+Sanders,Attorney General,,REP,Austin Knudsen,5689
+Sheridan,Attorney General,,REP,Austin Knudsen,1469
+Silver Bow,Attorney General,,REP,Austin Knudsen,7482
+Stillwater,Attorney General,,REP,Austin Knudsen,4486
+Sweet Grass,Attorney General,,REP,Austin Knudsen,1891
+Teton,Attorney General,,REP,Austin Knudsen,2632
+Toole,Attorney General,,REP,Austin Knudsen,1586
+Treasure,Attorney General,,REP,Austin Knudsen,382
+Valley,Attorney General,,REP,Austin Knudsen,3089
+Wheatland,Attorney General,,REP,Austin Knudsen,815
+Wibaux,Attorney General,,REP,Austin Knudsen,496
+Yellowstone,Attorney General,,REP,Austin Knudsen,52192
+Beaverhead,State Auditor,,DEM,Shane Morigeau,1510
+Big Horn,State Auditor,,DEM,Shane Morigeau,2522
+Blaine,State Auditor,,DEM,Shane Morigeau,1592
+Broadwater,State Auditor,,DEM,Shane Morigeau,783
+Carbon,State Auditor,,DEM,Shane Morigeau,2253
+Carter,State Auditor,,DEM,Shane Morigeau,66
+Cascade,State Auditor,,DEM,Shane Morigeau,14514
+Chouteau,State Auditor,,DEM,Shane Morigeau,927
+Custer,State Auditor,,DEM,Shane Morigeau,1456
+Daniels,State Auditor,,DEM,Shane Morigeau,181
+Dawson,State Auditor,,DEM,Shane Morigeau,972
+Deer Lodge,State Auditor,,DEM,Shane Morigeau,2579
+Fallon,State Auditor,,DEM,Shane Morigeau,164
+Fergus,State Auditor,,DEM,Shane Morigeau,1393
+Flathead,State Auditor,,DEM,Shane Morigeau,18845
+Gallatin,State Auditor,,DEM,Shane Morigeau,33881
+Garfield,State Auditor,,DEM,Shane Morigeau,48
+Glacier,State Auditor,,DEM,Shane Morigeau,3705
+Golden Valley,State Auditor,,DEM,Shane Morigeau,71
+Granite,State Auditor,,DEM,Shane Morigeau,611
+Hill,State Auditor,,DEM,Shane Morigeau,2952
+Jefferson,State Auditor,,DEM,Shane Morigeau,2580
+Judith Basin,State Auditor,,DEM,Shane Morigeau,240
+Lake,State Auditor,,DEM,Shane Morigeau,7263
+Lewis & Clark,State Auditor,,DEM,Shane Morigeau,19249
+Liberty,State Auditor,,DEM,Shane Morigeau,234
+Lincoln,State Auditor,,DEM,Shane Morigeau,2701
+Madison,State Auditor,,DEM,Shane Morigeau,1662
+McCone,State Auditor,,DEM,Shane Morigeau,149
+Meagher,State Auditor,,DEM,Shane Morigeau,219
+Mineral,State Auditor,,DEM,Shane Morigeau,659
+Missoula,State Auditor,,DEM,Shane Morigeau,41325
+Musselshell,State Auditor,,DEM,Shane Morigeau,409
+Park,State Auditor,,DEM,Shane Morigeau,4960
+Petroleum,State Auditor,,DEM,Shane Morigeau,36
+Phillips,State Auditor,,DEM,Shane Morigeau,381
+Pondera,State Auditor,,DEM,Shane Morigeau,860
+Powder River,State Auditor,,DEM,Shane Morigeau,127
+Powell,State Auditor,,DEM,Shane Morigeau,771
+Prairie,State Auditor,,DEM,Shane Morigeau,118
+Ravalli,State Auditor,,DEM,Shane Morigeau,8307
+Richland,State Auditor,,DEM,Shane Morigeau,877
+Roosevelt,State Auditor,,DEM,Shane Morigeau,1875
+Rosebud,State Auditor,,DEM,Shane Morigeau,1191
+Sanders,State Auditor,,DEM,Shane Morigeau,1870
+Sheridan,State Auditor,,DEM,Shane Morigeau,524
+Silver Bow,State Auditor,,DEM,Shane Morigeau,10388
+Stillwater,State Auditor,,DEM,Shane Morigeau,1129
+Sweet Grass,State Auditor,,DEM,Shane Morigeau,518
+Teton,State Auditor,,DEM,Shane Morigeau,963
+Toole,State Auditor,,DEM,Shane Morigeau,424
+Treasure,State Auditor,,DEM,Shane Morigeau,75
+Valley,State Auditor,,DEM,Shane Morigeau,991
+Wheatland,State Auditor,,DEM,Shane Morigeau,208
+Wibaux,State Auditor,,DEM,Shane Morigeau,76
+Yellowstone,State Auditor,,DEM,Shane Morigeau,28250
+Beaverhead,State Auditor,,REP,Troy Downing,3736
+Big Horn,State Auditor,,REP,Troy Downing,2063
+Blaine,State Auditor,,REP,Troy Downing,1362
+Broadwater,State Auditor,,REP,Troy Downing,3035
+Carbon,State Auditor,,REP,Troy Downing,4392
+Carter,State Auditor,,REP,Troy Downing,746
+Cascade,State Auditor,,REP,Troy Downing,22262
+Chouteau,State Auditor,,REP,Troy Downing,1838
+Custer,State Auditor,,REP,Troy Downing,4003
+Daniels,State Auditor,,REP,Troy Downing,761
+Dawson,State Auditor,,REP,Troy Downing,3516
+Deer Lodge,State Auditor,,REP,Troy Downing,1923
+Fallon,State Auditor,,REP,Troy Downing,1273
+Fergus,State Auditor,,REP,Troy Downing,4691
+Flathead,State Auditor,,REP,Troy Downing,37052
+Gallatin,State Auditor,,REP,Troy Downing,29665
+Garfield,State Auditor,,REP,Troy Downing,710
+Glacier,State Auditor,,REP,Troy Downing,1711
+Golden Valley,State Auditor,,REP,Troy Downing,410
+Granite,State Auditor,,REP,Troy Downing,1331
+Hill,State Auditor,,REP,Troy Downing,3684
+Jefferson,State Auditor,,REP,Troy Downing,5036
+Judith Basin,State Auditor,,REP,Troy Downing,1013
+Lake,State Auditor,,REP,Troy Downing,8459
+Lewis & Clark,State Auditor,,REP,Troy Downing,20104
+Liberty,State Auditor,,REP,Troy Downing,778
+Lincoln,State Auditor,,REP,Troy Downing,8308
+Madison,State Auditor,,REP,Troy Downing,3933
+McCone,State Auditor,,REP,Troy Downing,908
+Meagher,State Auditor,,REP,Troy Downing,813
+Mineral,State Auditor,,REP,Troy Downing,1710
+Missoula,State Auditor,,REP,Troy Downing,25013
+Musselshell,State Auditor,,REP,Troy Downing,2292
+Park,State Auditor,,REP,Troy Downing,5740
+Petroleum,State Auditor,,REP,Troy Downing,290
+Phillips,State Auditor,,REP,Troy Downing,1886
+Pondera,State Auditor,,REP,Troy Downing,1962
+Powder River,State Auditor,,REP,Troy Downing,929
+Powell,State Auditor,,REP,Troy Downing,2207
+Prairie,State Auditor,,REP,Troy Downing,560
+Ravalli,State Auditor,,REP,Troy Downing,18510
+Richland,State Auditor,,REP,Troy Downing,4447
+Roosevelt,State Auditor,,REP,Troy Downing,1825
+Rosebud,State Auditor,,REP,Troy Downing,2340
+Sanders,State Auditor,,REP,Troy Downing,5290
+Sheridan,State Auditor,,REP,Troy Downing,1291
+Silver Bow,State Auditor,,REP,Troy Downing,6864
+Stillwater,State Auditor,,REP,Troy Downing,4284
+Sweet Grass,State Auditor,,REP,Troy Downing,1757
+Teton,State Auditor,,REP,Troy Downing,2500
+Toole,State Auditor,,REP,Troy Downing,1529
+Treasure,State Auditor,,REP,Troy Downing,367
+Valley,State Auditor,,REP,Troy Downing,2937
+Wheatland,State Auditor,,REP,Troy Downing,786
+Wibaux,State Auditor,,REP,Troy Downing,471
+Yellowstone,State Auditor,,REP,Troy Downing,49439
+Beaverhead,State Auditor,,LIB,Roger Roots,299
+Big Horn,State Auditor,,LIB,Roger Roots,173
+Blaine,State Auditor,,LIB,Roger Roots,121
+Broadwater,State Auditor,,LIB,Roger Roots,180
+Carbon,State Auditor,,LIB,Roger Roots,319
+Carter,State Auditor,,LIB,Roger Roots,27
+Cascade,State Auditor,,LIB,Roger Roots,1979
+Chouteau,State Auditor,,LIB,Roger Roots,136
+Custer,State Auditor,,LIB,Roger Roots,308
+Daniels,State Auditor,,LIB,Roger Roots,27
+Dawson,State Auditor,,LIB,Roger Roots,223
+Deer Lodge,State Auditor,,LIB,Roger Roots,289
+Fallon,State Auditor,,LIB,Roger Roots,57
+Fergus,State Auditor,,LIB,Roger Roots,275
+Flathead,State Auditor,,LIB,Roger Roots,2793
+Gallatin,State Auditor,,LIB,Roger Roots,5052
+Garfield,State Auditor,,LIB,Roger Roots,33
+Glacier,State Auditor,,LIB,Roger Roots,216
+Golden Valley,State Auditor,,LIB,Roger Roots,15
+Granite,State Auditor,,LIB,Roger Roots,110
+Hill,State Auditor,,LIB,Roger Roots,440
+Jefferson,State Auditor,,LIB,Roger Roots,400
+Judith Basin,State Auditor,,LIB,Roger Roots,50
+Lake,State Auditor,,LIB,Roger Roots,675
+Lewis & Clark,State Auditor,,LIB,Roger Roots,2163
+Liberty,State Auditor,,LIB,Roger Roots,36
+Lincoln,State Auditor,,LIB,Roger Roots,525
+Madison,State Auditor,,LIB,Roger Roots,372
+McCone,State Auditor,,LIB,Roger Roots,36
+Meagher,State Auditor,,LIB,Roger Roots,54
+Mineral,State Auditor,,LIB,Roger Roots,141
+Missoula,State Auditor,,LIB,Roger Roots,3697
+Musselshell,State Auditor,,LIB,Roger Roots,122
+Park,State Auditor,,LIB,Roger Roots,645
+Petroleum,State Auditor,,LIB,Roger Roots,17
+Phillips,State Auditor,,LIB,Roger Roots,67
+Pondera,State Auditor,,LIB,Roger Roots,119
+Powder River,State Auditor,,LIB,Roger Roots,42
+Powell,State Auditor,,LIB,Roger Roots,153
+Prairie,State Auditor,,LIB,Roger Roots,33
+Ravalli,State Auditor,,LIB,Roger Roots,1171
+Richland,State Auditor,,LIB,Roger Roots,281
+Roosevelt,State Auditor,,LIB,Roger Roots,215
+Rosebud,State Auditor,,LIB,Roger Roots,188
+Sanders,State Auditor,,LIB,Roger Roots,338
+Sheridan,State Auditor,,LIB,Roger Roots,106
+Silver Bow,State Auditor,,LIB,Roger Roots,1052
+Stillwater,State Auditor,,LIB,Roger Roots,238
+Sweet Grass,State Auditor,,LIB,Roger Roots,151
+Teton,State Auditor,,LIB,Roger Roots,149
+Toole,State Auditor,,LIB,Roger Roots,116
+Treasure,State Auditor,,LIB,Roger Roots,9
+Valley,State Auditor,,LIB,Roger Roots,215
+Wheatland,State Auditor,,LIB,Roger Roots,52
+Wibaux,State Auditor,,LIB,Roger Roots,19
+Yellowstone,State Auditor,,LIB,Roger Roots,4548
+Beaverhead,Superintendent of Public Instruction,,DEM,Melissa Romano,1766
+Big Horn,Superintendent of Public Instruction,,DEM,Melissa Romano,2721
+Blaine,Superintendent of Public Instruction,,DEM,Melissa Romano,1764
+Broadwater,Superintendent of Public Instruction,,DEM,Melissa Romano,994
+Carbon,Superintendent of Public Instruction,,DEM,Melissa Romano,2539
+Carter,Superintendent of Public Instruction,,DEM,Melissa Romano,100
+Cascade,Superintendent of Public Instruction,,DEM,Melissa Romano,17839
+Chouteau,Superintendent of Public Instruction,,DEM,Melissa Romano,1187
+Custer,Superintendent of Public Instruction,,DEM,Melissa Romano,1770
+Daniels,Superintendent of Public Instruction,,DEM,Melissa Romano,237
+Dawson,Superintendent of Public Instruction,,DEM,Melissa Romano,1226
+Deer Lodge,Superintendent of Public Instruction,,DEM,Melissa Romano,2837
+Fallon,Superintendent of Public Instruction,,DEM,Melissa Romano,224
+Fergus,Superintendent of Public Instruction,,DEM,Melissa Romano,1754
+Flathead,Superintendent of Public Instruction,,DEM,Melissa Romano,20787
+Gallatin,Superintendent of Public Instruction,,DEM,Melissa Romano,35598
+Garfield,Superintendent of Public Instruction,,DEM,Melissa Romano,65
+Glacier,Superintendent of Public Instruction,,DEM,Melissa Romano,3875
+Golden Valley,Superintendent of Public Instruction,,DEM,Melissa Romano,92
+Granite,Superintendent of Public Instruction,,DEM,Melissa Romano,717
+Hill,Superintendent of Public Instruction,,DEM,Melissa Romano,3414
+Jefferson,Superintendent of Public Instruction,,DEM,Melissa Romano,2995
+Judith Basin,Superintendent of Public Instruction,,DEM,Melissa Romano,341
+Lake,Superintendent of Public Instruction,,DEM,Melissa Romano,7258
+Lewis & Clark,Superintendent of Public Instruction,,DEM,Melissa Romano,21414
+Liberty,Superintendent of Public Instruction,,DEM,Melissa Romano,333
+Lincoln,Superintendent of Public Instruction,,DEM,Melissa Romano,2958
+Madison,Superintendent of Public Instruction,,DEM,Melissa Romano,1869
+McCone,Superintendent of Public Instruction,,DEM,Melissa Romano,178
+Meagher,Superintendent of Public Instruction,,DEM,Melissa Romano,282
+Mineral,Superintendent of Public Instruction,,DEM,Melissa Romano,755
+Missoula,Superintendent of Public Instruction,,DEM,Melissa Romano,43453
+Musselshell,Superintendent of Public Instruction,,DEM,Melissa Romano,524
+Park,Superintendent of Public Instruction,,DEM,Melissa Romano,5408
+Petroleum,Superintendent of Public Instruction,,DEM,Melissa Romano,54
+Phillips,Superintendent of Public Instruction,,DEM,Melissa Romano,491
+Pondera,Superintendent of Public Instruction,,DEM,Melissa Romano,1124
+Powder River,Superintendent of Public Instruction,,DEM,Melissa Romano,179
+Powell,Superintendent of Public Instruction,,DEM,Melissa Romano,964
+Prairie,Superintendent of Public Instruction,,DEM,Melissa Romano,147
+Ravalli,Superintendent of Public Instruction,,DEM,Melissa Romano,9151
+Richland,Superintendent of Public Instruction,,DEM,Melissa Romano,1057
+Roosevelt,Superintendent of Public Instruction,,DEM,Melissa Romano,2052
+Rosebud,Superintendent of Public Instruction,,DEM,Melissa Romano,1392
+Sanders,Superintendent of Public Instruction,,DEM,Melissa Romano,2025
+Sheridan,Superintendent of Public Instruction,,DEM,Melissa Romano,621
+Silver Bow,Superintendent of Public Instruction,,DEM,Melissa Romano,11356
+Stillwater,Superintendent of Public Instruction,,DEM,Melissa Romano,1429
+Sweet Grass,Superintendent of Public Instruction,,DEM,Melissa Romano,629
+Teton,Superintendent of Public Instruction,,DEM,Melissa Romano,1285
+Toole,Superintendent of Public Instruction,,DEM,Melissa Romano,574
+Treasure,Superintendent of Public Instruction,,DEM,Melissa Romano,101
+Valley,Superintendent of Public Instruction,,DEM,Melissa Romano,1344
+Wheatland,Superintendent of Public Instruction,,DEM,Melissa Romano,261
+Wibaux,Superintendent of Public Instruction,,DEM,Melissa Romano,124
+Yellowstone,Superintendent of Public Instruction,,DEM,Melissa Romano,34252
+Beaverhead,Superintendent of Public Instruction,,REP,Elsie Arntzen,3609
+Big Horn,Superintendent of Public Instruction,,REP,Elsie Arntzen,1878
+Blaine,Superintendent of Public Instruction,,REP,Elsie Arntzen,1258
+Broadwater,Superintendent of Public Instruction,,REP,Elsie Arntzen,2894
+Carbon,Superintendent of Public Instruction,,REP,Elsie Arntzen,4196
+Carter,Superintendent of Public Instruction,,REP,Elsie Arntzen,725
+Cascade,Superintendent of Public Instruction,,REP,Elsie Arntzen,19908
+Chouteau,Superintendent of Public Instruction,,REP,Elsie Arntzen,1632
+Custer,Superintendent of Public Instruction,,REP,Elsie Arntzen,3789
+Daniels,Superintendent of Public Instruction,,REP,Elsie Arntzen,713
+Dawson,Superintendent of Public Instruction,,REP,Elsie Arntzen,3382
+Deer Lodge,Superintendent of Public Instruction,,REP,Elsie Arntzen,1778
+Fallon,Superintendent of Public Instruction,,REP,Elsie Arntzen,1234
+Fergus,Superintendent of Public Instruction,,REP,Elsie Arntzen,4496
+Flathead,Superintendent of Public Instruction,,REP,Elsie Arntzen,35707
+Gallatin,Superintendent of Public Instruction,,REP,Elsie Arntzen,29668
+Garfield,Superintendent of Public Instruction,,REP,Elsie Arntzen,702
+Glacier,Superintendent of Public Instruction,,REP,Elsie Arntzen,1583
+Golden Valley,Superintendent of Public Instruction,,REP,Elsie Arntzen,394
+Granite,Superintendent of Public Instruction,,REP,Elsie Arntzen,1258
+Hill,Superintendent of Public Instruction,,REP,Elsie Arntzen,3352
+Jefferson,Superintendent of Public Instruction,,REP,Elsie Arntzen,4779
+Judith Basin,Superintendent of Public Instruction,,REP,Elsie Arntzen,953
+Lake,Superintendent of Public Instruction,,REP,Elsie Arntzen,8500
+Lewis & Clark,Superintendent of Public Instruction,,REP,Elsie Arntzen,18684
+Liberty,Superintendent of Public Instruction,,REP,Elsie Arntzen,694
+Lincoln,Superintendent of Public Instruction,,REP,Elsie Arntzen,8117
+Madison,Superintendent of Public Instruction,,REP,Elsie Arntzen,3884
+McCone,Superintendent of Public Instruction,,REP,Elsie Arntzen,890
+Meagher,Superintendent of Public Instruction,,REP,Elsie Arntzen,772
+Mineral,Superintendent of Public Instruction,,REP,Elsie Arntzen,1636
+Missoula,Superintendent of Public Instruction,,REP,Elsie Arntzen,23950
+Musselshell,Superintendent of Public Instruction,,REP,Elsie Arntzen,2200
+Park,Superintendent of Public Instruction,,REP,Elsie Arntzen,5484
+Petroleum,Superintendent of Public Instruction,,REP,Elsie Arntzen,279
+Phillips,Superintendent of Public Instruction,,REP,Elsie Arntzen,1783
+Pondera,Superintendent of Public Instruction,,REP,Elsie Arntzen,1735
+Powder River,Superintendent of Public Instruction,,REP,Elsie Arntzen,885
+Powell,Superintendent of Public Instruction,,REP,Elsie Arntzen,2060
+Prairie,Superintendent of Public Instruction,,REP,Elsie Arntzen,543
+Ravalli,Superintendent of Public Instruction,,REP,Elsie Arntzen,17968
+Richland,Superintendent of Public Instruction,,REP,Elsie Arntzen,4382
+Roosevelt,Superintendent of Public Instruction,,REP,Elsie Arntzen,1738
+Rosebud,Superintendent of Public Instruction,,REP,Elsie Arntzen,2204
+Sanders,Superintendent of Public Instruction,,REP,Elsie Arntzen,5148
+Sheridan,Superintendent of Public Instruction,,REP,Elsie Arntzen,1259
+Silver Bow,Superintendent of Public Instruction,,REP,Elsie Arntzen,6354
+Stillwater,Superintendent of Public Instruction,,REP,Elsie Arntzen,4062
+Sweet Grass,Superintendent of Public Instruction,,REP,Elsie Arntzen,1700
+Teton,Superintendent of Public Instruction,,REP,Elsie Arntzen,2243
+Toole,Superintendent of Public Instruction,,REP,Elsie Arntzen,1419
+Treasure,Superintendent of Public Instruction,,REP,Elsie Arntzen,350
+Valley,Superintendent of Public Instruction,,REP,Elsie Arntzen,2664
+Wheatland,Superintendent of Public Instruction,,REP,Elsie Arntzen,749
+Wibaux,Superintendent of Public Instruction,,REP,Elsie Arntzen,431
+Yellowstone,Superintendent of Public Instruction,,REP,Elsie Arntzen,45456
+Beaverhead,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,208
+Big Horn,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,163
+Blaine,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,83
+Broadwater,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,146
+Carbon,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,272
+Carter,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,19
+Cascade,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,1656
+Chouteau,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,114
+Custer,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,231
+Daniels,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,32
+Dawson,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,154
+Deer Lodge,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,223
+Fallon,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,42
+Fergus,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,176
+Flathead,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,2332
+Gallatin,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,3596
+Garfield,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,24
+Glacier,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,203
+Golden Valley,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,14
+Granite,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,93
+Hill,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,359
+Jefferson,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,284
+Judith Basin,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,34
+Lake,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,639
+Lewis & Clark,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,1748
+Liberty,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,38
+Lincoln,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,458
+Madison,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,209
+McCone,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,40
+Meagher,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,42
+Mineral,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,130
+Missoula,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,2813
+Musselshell,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,117
+Park,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,486
+Petroleum,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,11
+Phillips,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,67
+Pondera,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,111
+Powder River,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,37
+Powell,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,118
+Prairie,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,29
+Ravalli,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,977
+Richland,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,223
+Roosevelt,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,174
+Rosebud,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,131
+Sanders,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,314
+Sheridan,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,78
+Silver Bow,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,749
+Stillwater,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,188
+Sweet Grass,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,94
+Teton,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,129
+Toole,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,89
+Treasure,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,7
+Valley,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,159
+Wheatland,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,35
+Wibaux,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,22
+Yellowstone,Superintendent of Public Instruction,,LIB,Kevin Leatherbarrow,3282
+Custer,Public Service Commissioner,PSC2,DEM,Valerie McMurtry,1597
+Custer,Public Service Commissioner,PSC2,REP,Tony O'Donnell,4121
+Deer Lodge,Public Service Commissioner,PSC3,REP,James Brown,2081
+Deer Lodge,Public Service Commissioner,PSC3,DEM,Tom Woods,2688
+Fallon,Public Service Commissioner,PSC2,DEM,Valerie McMurtry,172
+Fallon,Public Service Commissioner,PSC2,REP,Tony O'Donnell,1322
+GALLATIN,Public Service Commissioner,PSC3,REP,James Brown,32482
+GALLATIN,Public Service Commissioner,PSC3,DEM,Tom Woods,35641
+Golden Valley,Public Service Commissioner,PSC3,REP,James Brown,416
+Golden Valley,Public Service Commissioner,PSC3,DEM,Tony Woods,82
+Granite,Public Service Commissioner,PSC4,REP,Jennifer Fielder,1398
+Granite,Public Service Commissioner,PSC4,DEM,Monica Tranel,659
+JEFFERSON,Public Service Commissioner,PSC3,REP,James Brown,5321
+JEFFERSON,Public Service Commissioner,PSC3,DEM,Tony Woods,2613
+LINCOLN,Public Service Commissioner,PSC4,REP,Jennifer Fielder,8635
+LINCOLN,Public Service Commissioner,PSC4,DEM,Monica Tranel,2853
+MADISON MT,Public Service Commissioner,PSC3,REP,James Brown,4213
+MADISON MT,Public Service Commissioner,PSC3,DEM,Tony Woods,1710
+MEAGHER,Public Service Commissioner,PSC3,REP,James Brown,836
+MEAGHER,Public Service Commissioner,PSC3,DEM,Tony Woods,241
+MINERAL,Public Service Commissioner,PSC4,DEM,Monica Tranel,755
+MINERAL,Public Service Commissioner,PSC4,REP,Jennifer Fielder,1749
+MISSOULA,Public Service Commissioner,PSC4,DEM,Monica Tranel,43300
+MISSOULA,Public Service Commissioner,PSC4,REP,Jennifer Fielder,26336
+Musselshell,Public Service Commissioner,PSC3,DEM,Tony Woods,438
+Musselshell,Public Service Commissioner,PSC3,REP,James Brown,2358
+Park,Public Service Commissioner,PSC3,DEM,Tony Woods,5234
+Park,Public Service Commissioner,PSC3,REP,James Brown,6015
+POWDER RIVER,Public Service Commissioner,PSC2,DEM,Valerie McMurtry,150
+POWDER RIVER,Public Service Commissioner,PSC2,REP,Tony O'Donnell,939
+POWELL,Public Service Commissioner,PSC4,DEM,Monica Tranel,780
+POWELL,Public Service Commissioner,PSC4,REP,Jennifer Fielder,2336
+PRAIRIE,Public Service Commissioner,PSC2,DEM,Valerie McMurtry,142
+PRAIRIE,Public Service Commissioner,PSC2,REP,Tony O'Donnell,562
+RAVALLI,Public Service Commissioner,PSC4,DEM,Monica Tranel,8959
+RAVALLI,Public Service Commissioner,PSC4,REP,Jennifer Fielder,18952
+ROSEBUD,Public Service Commissioner,PSC2,DEM,Valerie McMurtry,1238
+ROSEBUD,Public Service Commissioner,PSC2,REP,Tony O'Donnell,2460
+SANDERS,Public Service Commissioner,PSC4,DEM,Monica Tranel,2175
+SANDERS,Public Service Commissioner,PSC4,REP,Jennifer Fielder,5320
+Stillwater,Public Service Commissioner,PSC3,DEM,Tom Woods,1215
+Sweet Grass,Public Service Commissioner,PSC3,DEM,Tom Woods,511
+Stillwater,Public Service Commissioner,PSC3,REP,James Brown,4391
+Sweet Grass,Public Service Commissioner,PSC3,REP,James Brown,1878
+Treasure,Public Service Commissioner,PSC2,DEM,Valerie McMurtry,80
+Treasure,Public Service Commissioner,PSC2,REP,Tony O'Donnell,369
+Wheatland,Public Service Commissioner,PSC3,DEM,Tom Woods,222
+Wheatland,Public Service Commissioner,PSC3,REP,James Brown,807
+Yellowstone,Public Service Commissioner,PSC2,DEM,Valerie McMurtry,30983
+Yellowstone,Public Service Commissioner,PSC2,REP,Tony O'Donnell,50889
+Daniels,State Senate,SD17,REP,Mike Lang,879
+Dawson,State Senate,SD18,REP,Steve Hinebaugh,3479
+Dawson,State Senate,SD18,DEM,Pat Mischel,1303
+Deer Lodge,State Senate,SD39,REP,Suzzann Nordwick,1498
+Deer Lodge,State Senate,SD39,DEM,Mark Sweeney,2674
+Fergus,State Senate,SD15,REP,Ryan Osmundson,5372
+GALLATIN,State Senate,SD31,REP,Nicolas Allevato,5596
+GALLATIN,State Senate,SD31,DEM,Christopher Pope,11018
+GALLATIN,State Senate,SD35,REP,Walt Sales,5804
+Golden Valley,State Senate,SD15,REP,Marvin Osmundson,445
+Granite,State Senate,SD39,REP,Suzzann Nordwick,1258
+Granite,State Senate,SD39,DEM,Mark Sweeney,714
+HILL,State Senate,SD16,DEM,Mike Fox,818
+HILL,State Senate,SD17,REP,Mike Lang,484
+JEFFERSON,State Senate,SD36,LIB,John Lamb,216
+JEFFERSON,State Senate,SD38,REP,Jim Buterbaugh,4410
+JEFFERSON,State Senate,SD36,REP,Jeff Welborn,775
+JEFFERSON,State Senate,SD38,DEM,Edie McClafferty,2497
+JUDITH BASIN,State Senate,SD15,REP,Ryan Osmundson,1106
+LAKE,State Senate,SD06,REP,Greg Hertz,4937
+LAKE,State Senate,SD47,DEM,Chase Porter Gay,1849
+LAKE,State Senate,SD47,REP,Dan Salomon,3084
+LAKE,State Senate,SD47,LIB,Devin Braaten,322
+MADISON MT,State Senate,SD36,REP,Jeff Welborn,4426
+MADISON MT,State Senate,SD36,LIB,John Lamb,1268
+MEAGHER,State Senate,SD15,REP,Ryan Osmundson,926
+MINERAL,State Senate,SD07,DEM,Diane Magone,802
+MINERAL,State Senate,SD07,REP,Bob Brown,1708
+Missoula,State Senate,SD45,DEM,Ellie Hill,7045
+Missoula,State Senate,SD45,REP,Susan Reneau,4045
+Missoula,State Senate,SD45,LIB,Nolen Skime,435
+Missoula,State Senate,SD46,DEM,Shannon O'Brien,8362
+Missoula,State Senate,SD47,DEM,Chase Porter Gay,3069
+Missoula,State Senate,SD46,REP,Niki Sardot,4296
+Missoula,State Senate,SD47,REP,Dan Salomon,2899
+Missoula,State Senate,SD47,LIB,Devin Braaten,259
+PETROLEUM,State Senate,SD15,REP,Ryan Osmundson,317
+PHILLIPS,State Senate,SD16,DEM,Mike Fox,271
+PHILLIPS,State Senate,SD17,REP,Mike Lang,1460
+Powell,State Senate,SD39,DEM,Mark Sweeney,395
+Powell,State Senate,SD40,DEM,Catherine Scott,200
+Powell,State Senate,SD39,REP,Suzzann Nordwick,1094
+Powell,State Senate,SD40,REP,Terry Gauthier,896
+Ravalli,State Senate,SD44,DEM,Margaret Gorski,4626
+Ravalli,State Senate,SD44,RAVALLI MT,Theresa Manzella,9485
+RICHLAND,State Senate,SD18,DEM,Pat Mischel,968
+RICHLAND,State Senate,SD18,REP,Steven Hinebaugh,4662
+ROOSEVELT,State Senate,SD16,DEM,Mike Fox,2239
+ROOSEVELT,State Senate,SD17,REP,Mike Lang,1098
+ROSEBUD,State Senate,SD21,DEM,Rae Peppers,622
+ROSEBUD,State Senate,SD21,REP,Jason Small,635
+SANDERS,State Senate,SD07,DEM,Diane Magone,1829
+SANDERS,State Senate,SD07,REP,Bob Brown,5662
+Sheridan,State Senate,SD17,REP,Mike Lang,1643
+Silver Bow,State Senate,SD36,REP,Jeff Welborn,822
+Silver Bow,State Senate,SD36,LIB,John Lamb,352
+Silver Bow,State Senate,SD37,DEM,Ryan Lynch,6141
+Silver Bow,State Senate,SD37,REP,Aaron Meaders,3337
+Silver Bow,State Senate,SD38,DEM,Edie McClafferty,4146
+Silver Bow,State Senate,SD39,DEM,Mark Sweeney,667
+Silver Bow,State Senate,SD38,REP,Jim Buterbaugh,2176
+Silver Bow,State Senate,SD39,REP,Suzzann Nordwick,456
+Valley,State Senate,SD16,DEM,Mike Fox,536
+Valley,State Senate,SD17,REP,Mike Lang,2873
+Wheatland,State Senate,SD15,REP,Ryan Osmundson,854
+Wibaux,State Senate,SD18,DEM,Pat Mischel,107
+Wibaux,State Senate,SD18,REP,Steve Hinebaugh,477
+Yellowstone,State Senate,SD21,DEM,Rae Peppers,89
+Yellowstone,State Senate,SD21,REP,Jason Small,313
+Yellowstone,State Senate,SD23,REP,Tom McGillvray,9893
+Yellowstone,State Senate,SD25,DEM,Jen Gross,4146
+Yellowstone,State Senate,SD26,DEM,Margie MacDonald,4355
+Yellowstone,State Senate,SD25,REP,Scott Price,3912
+Yellowstone,State Senate,SD26,REP,Chris Friedel,4823
+Yellowstone,State Senate,SD28,REP,Brad Molnar,8659
+Big Horn,State House,HD41,DEM,Rynalea Whiteman Pena,817
+Big Horn,State House,HD42,DEM,Sharon Stewart Peregoy,2589
+Carter,State House,HD37,REP,Jerry Schillinger,790
+Carter,State House,HD37,LIB,Jacob Kitson,43
+Cascade,State House,HD19,REP,Wendy McKamey,4288
+Cascade,State House,HD19,LIB,George Schultz,762
+Cascade,State House,HD20,DEM,Melissa Smith,2078
+Cascade,State House,HD21,DEM,Jaime Horn,1768
+Cascade,State House,HD22,DEM,Jasmine Taylor,1840
+Cascade,State House,HD23,DEM,Brad Hamlett,1972
+Cascade,State House,HD24,DEM,Barbara Bessette,2058
+Cascade,State House,HD25,DEM,Jasmine Krotkov,2038
+Cascade,State House,HD26,DEM,Helena Lovick,1506
+Cascade,State House,HD30,DEM,Cindy Palmer,132
+Cascade,State House,HD20,REP,Fred Anderson,4357
+Cascade,State House,HD21,REP,Ed Buttrey,3390
+Cascade,State House,HD22,REP,Lola Sheldon-Galloway,2572
+Cascade,State House,HD23,REP,Scot Kerns,2079
+Cascade,State House,HD24,REP,Steven Galloway,2363
+Cascade,State House,HD25,REP,Steve Gist,2287
+Cascade,State House,HD26,REP,Jeremy Ytrbas,1689
+Cascade,State House,HD27,REP,Josh Kassmier,801
+Cascade,State House,HD30,REP,Wylie Galt,432
+Custer,State House,HD37,LIB,Jacob Kitson,96
+Custer,State House,HD37,REP,Jerry Schillinger,604
+Custer,State House,HD38,REP,Kenneth Holmlund,4006
+Custer,State House,HD39,REP,Geraldine Custer,407
+Daniels,State House,HD34,REP,Rhonda Knudsen,857
+Dawson,State House,HD36,REP,Bob Phalen,4222
+Fallon,State House,HD37,LIB,Jacob Kitson,113
+Fallon,State House,HD37,REP,Jerry Schillinger,1383
+Gallatin,State House,HD59,REP,Marty Malone,187
+Gallatin,State House,HD59,DEM,Dan Vermillion,226
+Gallatin,State House,HD61,DEM,Jim Hamilton,6200
+Gallatin,State House,HD62,DEM,Ed Stafman,5924
+Gallatin,State House,HD63,DEM,Alice Buckley,3602
+Gallatin,State House,HD64,DEM,Brian Popiel,3611
+Gallatin,State House,HD65,DEM,Kelly Kortum,5906
+Gallatin,State House,HD66,DEM,Denise Hayman,5321
+Gallatin,State House,HD67,DEM,Colette Campbell,2480
+Gallatin,State House,HD68,DEM,Emily Brosten,2148
+GALLATIN,State House,HD69,REP,Jennifer Carlson,5801
+GALLATIN,State House,HD62,LIB,Francis Wendt,2079
+GALLATIN,State House,HD63,REP,Bryan Haysom,2312
+GALLATIN,State House,HD64,REP,Jane Gillette,4578
+GALLATIN,State House,HD65,DEM,Jolene Crum,3834
+GALLATIN,State House,HD67,REP,Jedidiah Hinkle,4154
+GALLATIN,State House,HD68,REP,Caleb Hinkle,4293
+GALLATIN,State House,HD64,LIB,Doug Campbell,450
+GALLATIN,State House,HD67,LIB,Andrew Schaefer,363
+Garfield,State House,HD37,LIB,Jacob Kitson,47
+Garfield,State House,HD37,REP,Jerry Schillinger,737
+Glacier,State House,HD15,DEM,Marvin Weatherwax,735
+Glacier,State House,HD16,DEM,Tyson Running Wolf,3237
+Glacier,State House,HD18,REP,Llew Jones,794
+Golden Valley,State House,HD30,REP,Wylie Galt,424
+Golden Valley,State House,HD30,DEM,Cindy Palmer,74
+Granite,State House,HD77,REP,Heather Blom,1345
+Granite,State House,HD77,DEM,Sara Novak,663
+Hill,State House,HD27,REP,Josh Kassmier,828
+Hill,State House,HD28,DEM,Krystal Steinmetz,2133
+Hill,State House,HD32,REP,Bruce Meyers,420
+HILL,State House,HD33,REP,Casey Knudsen,479
+Hill,State House,HD28,REP,Ed Hill,2296
+Hill,State House,HD32,DEM,Jonathan Windy Boy,582
+Jefferson,State House,HD71,DEM,Ian Roor,200
+JEFFERSON,State House,HD75,REP,Marta Bertoglio,4729
+Jefferson,State House,HD71,REP,Kenneth Walsh,815
+JEFFERSON,State House,HD75,DEM,Bryher Herak,2187
+JUDITH BASIN,State House,HD30,REP,Wylie Galt,1036
+JUDITH BASIN,State House,HD30,DEM,Cindy Palmer,282
+Lake,State House,HD10,DEM,Jennifer Allen,552
+Lake,State House,HD12,DEM,Gerry Browning,2830
+Lake,State House,HD15,DEM,Marvin Weatherwax,1924
+LAKE,State House,HD93,DEM,Lisa Pavlock,2279
+Lake,State House,HD10,REP,Mark Noland,1034
+Lake,State House,HD12,REP,Linda Reksten,3739
+LAKE,State House,HD93,REP,Joe Read,2974
+LIBERTY,State House,HD27,REP,Josh Kassmier,932
+Lincoln,State House,HD01,DEM,Marvin Sather,1518
+LINCOLN,State House,HD02,DEM,Lori Ramesz,1258
+Lincoln,State House,HD01,REP,Steve Gunderson,3721
+Lincoln,State House,HD02,REP,Neil Duram,5080
+MADISON MT,State House,HD71,DEM,Ian Root,1470
+MCCONE,State House,HD37,REP,Jerry Schillinger,924
+MEAGHER,State House,HD30,DEM,Cindy Palmer,239
+MADISON MT,State House,HD71,REP,Kenneth Walsh,4468
+MCCONE,State House,HD37,LIB,Jacob Kitson,145
+MEAGHER,State House,HD30,REP,Wylie Galt,841
+MINERAL,State House,HD14,REP,Denley Loge,2254
+Missoula,State House,HD14,REP,Denley Loge,391
+Missoula,State House,HD89,DEM,Katie Sullivan,3374
+Missoula,State House,HD90,DEM,Marilyn Marler,4018
+Missoula,State House,HD91,DEM,Connie Keogh,5651
+Missoula,State House,HD92,DEM,Tom Browder,2620
+Missoula,State House,HD94,DEM,Tom France,3332
+Missoula,State House,HD95,DEM,Danny Tenenbaum,4076
+Missoula,State House,HD96,DEM,Lori Conley,3519
+Missoula,State House,HD97,DEM,Louann Hanson,2707
+Missoula,State House,HD98,DEM,Willis Curdy,3583
+Missoula,State House,HD99,DEM,Mark Thane,4088
+MISSOULA,State House,HD100,DEM,Andrea Olsen,5336
+Missoula,State House,HD89,REP,Gary Wanberg,2242
+Missoula,State House,HD90,REP,Lana Hamilton,1867
+Missoula,State House,HD91,REP,Bethanie Wanberg,1186
+Missoula,State House,HD92,REP,Mike Hopkins,3249
+Missoula,State House,HD94,DEM,Karen Sherman,2897
+Missoula,State House,HD95,REP,Rebecca Dawson,1573
+Missoula,State House,HD96,REP,Kathy Whitman,3709
+Missoula,State House,HD97,REP,Brad Tschida,3577
+Missoula,State House,HD98,REP,Nancy Burgoyne,2229
+Missoula,State House,HD99,REP,Doc Moore,2265
+MISSOULA,State House,HD100,REP,Carol Minajres,1145
+MISSOULA,State House,HD98,LIB,Richard Armerding,302
+Musselshell,State House,HD40,DEM,Kris Spanjian,493
+Musselshell,State House,HD40,REP,Barry Usher,2323
+Park,State House,HD59,DEM,Dan Vermillion,1795
+Park,State House,HD60,DEM,Laurie Bishop,3776
+Park,State House,HD59,REP,Marty Malone,2809
+Park,State House,HD60,REP,Joe Lamm,2927
+PETROLEUM,State House,HD29,REP,Dan Bartel,327
+Phillips,State House,HD32,DEM,Jonathan Windy Boy,108
+PHILLIPS,State House,HD33,REP,Casey Knudsen,1492
+Phillips,State House,HD32,REP,Bruce Meyers,574
+Pondera,State House,HD15,DEM,Marvin Weatherwax,249
+Pondera,State House,HD17,DEM,Barnett Sporkin-Morrison,257
+PONDERA,State House,HD18,REP,Llew Jones,1160
+Pondera,State House,HD17,REP,Ross Fitzgerald,994
+Powell,State House,HD78,DEM,Cindy Hiner,744
+Powell,State House,HD80,REP,Becky Beard,979
+Powell,State House,HD78,REP,Gregory Frazer,1258
+Powell,State House,HD80,LIB,Ron Vandevender,99
+PRAIRIE,State House,HD37,REP,Jerry Schillinger,592
+PRAIRIE,State House,HD37,LIB,Jacob Kitson,108
+Ravalli,State House,HD85,DEM,Laura Jackson,1818
+Ravalli,State House,HD86,REP,David Bedey,5067
+Ravalli,State House,HD87,DEM,Laura Merrill,1940
+Ravalli,State House,HD88,REP,Sharon Greef,5587
+Ravalli,State House,HD85,REP,Michele Binkley,5303
+Ravalli,State House,HD87,REP,Ron Marshall,5029
+RICHLAND,State House,HD35,REP,Brandon Ler,4760
+Roosevelt,State House,HD31,DEM,Frank Smith,2280
+Roosevelt,State House,HD34,REP,Rhonda Knudsen,1057
+Rosebud,State House,HD39,REP,Geraldine Custer,2256
+Rosebud,State House,HD41,DEM,Rynalea Whiteman Pena,818
+SANDERS,State House,HD14,REP,Denley Loge,2540
+Sheridan,State House,HD34,REP,Rhonda Knudsen,1626
+Silver Bow,State House,HD71,DEM,Ian Root,275
+Silver Bow,State House,HD72,REP,Tom Welch,502
+Silver Bow,State House,HD73,DEM,Jim Keane,3043
+Silver Bow,State House,HD74,DEM,Derek Harvey,2861
+Silver Bow,State House,HD76,DEM,Donavon Hawk,3843
+Silver Bow,State House,HD78,DEM,Cindy Hiner,634
+Silver Bow,State House,HD71,REP,Kenneth Walsh,370
+Silver Bow,State House,HD73,REP,Marjorie McCaffery,1969
+Silver Bow,State House,HD74,REP,Jim Kephart,1570
+Silver Bow,State House,HD76,REP,Andy Johnson,2390
+Silver Bow,State House,HD78,REP,Gregory Frazer,477
+Stillwater,State House,HD57,REP,Fiona Nave,4823
+Sweet Grass,State House,HD57,REP,Fiona Nave,281
+Sweet Grass,State House,HD59,DEM,Dan Vermillion,493
+Sweet Grass,State House,HD59,REP,Marty Malone,1598
+Teton,State House,HD17,DEM,Barnett Sporkin-Morrison,817
+Teton,State House,HD17,REP,Ross Fitzgerald,2805
+Toole,State House,HD18,REP,Llew Jones,1890
+Treasure,State House,HD39,REP,Geraldine Custer,432
+Valley,State House,HD31,DEM,Frank Smith,540
+Valley,State House,HD33,REP,Casey Knudsen,1448
+Valley,State House,HD34,REP,Rhonda Knudsen,1374
+Wheatland,State House,HD30,DEM,Cindy Hiner,237
+Wheatland,State House,HD30,REP,Wylie Galt,806
+Wibaux,State House,HD36,REP,Bob Phalen,506
+Yellowstone,State House,HD39,REP,Geraldine Custer,1845
+Yellowstone,State House,HD40,DEM,Kris Spanjian,627
+Yellowstone,State House,HD42,DEM,Sharon Peregoy,189
+Yellowstone,State House,HD43,REP,Kerri Seekins-Crowe,3553
+Yellowstone,State House,HD44,DEM,Terry Dennis,1825
+Yellowstone,State House,HD45,REP,Katie Zolnikov,4996
+Yellowstone,State House,HD46,DEM,Zack Ladson,2031
+Yellowstone,State House,HD47,DEM,Kathy Kelker,2485
+Yellowstone,State House,HD48,DEM,Jessica Karjala,2697
+Yellowstone,State House,HD49,DEM,Emma Kerr-Carpenter,2183
+Yellowstone,State House,HD50,DEM,Jade Bahr,1992
+Yellowstone,State House,HD51,DEM,Anne Giuliano,2319
+Yellowstone,State House,HD52,DEM,Hannah Olson (DEM0,1838
+Yellowstone,State House,HD53,REP,Dennis Lenz,8025
+Yellowstone,State House,HD54,DEM,Ryan Thomsen,2239
+Yellowstone,State House,HD55,REP,Vince Ricci,4473
+Yellowstone,State House,HD56,REP,Sue Vinton,4444
+Yellowstone,State House,HD40,REP,Barry Usher,2460
+Yellowstone,State House,HD43,LIB,Melody Benes,1496
+Yellowstone,State House,HD44,REP,Larry Brewster,3288
+Yellowstone,State House,HD46,REP,Bill Merceer,4265
+Yellowstone,State House,HD47,REP,TJ Smith,1992
+Yellowstone,State House,HD48,REP,Lee Verrill-Rhys,2415
+Yellowstone,State House,HD49,REP,Colin Nygaard,1643
+Yellowstone,State House,HD50,REP,Mallerie Stromswold,2229
+Yellowstone,State House,HD51,REP,Frank Fleming,2638
+Yellowstone,State House,HD52,REP,Jimmy Patelis,2341
+Yellowstone,State House,HD54,REP,Terry Moore,4459
+Beaverhead,Public Service Commissioner,PSC3,REP,James Brown,4048
+Beaverhead,Public Service Commissioner,PSC3,DEM,Tom Woods,1470
+Beaverhead,State Senate,36,REP,Jeff Welborn,4503
+Beaverhead,State Senate,36,LIB,John Lamb,870
+Beaverhead,State House,22,REP,Tom Welch,4986
+BIG HORN,Public Service Commissioner,PSC2,DEM,Valerie McMurtry,2613
+BIG HORN,Public Service Commissioner,PSC2,REP,Tony O'Donnell,2110
+BIG HORN,State Senate,21,DEM,Rae Peppers,2159
+BIG HORN,State Senate,21,REP,Jason Small,2548
+BROADWATER,Public Service Commissioner,PSC3,DEM,Tom Woods,840
+BROADWATER,Public Service Commissioner,PSC3,REP,James Brown,3147
+BROADWATER,State Senate,35,REP,Walt Sales,3475
+BROADWATER,State House,70,BROADWATER,Julie Dooling,3555
+CARBON,Public Service Commissioner,PSC2,DEM,Valerie McMurtry,2431
+CARBON,Public Service Commissioner,PSC2,REP,Tony O'Donnell,4505
+Carter,Public Service Commissioner,PSC2,DEM,Valerie McMurtry,76
+Carter,Public Service Commissioner,PSC2,REP,Tony O'Donnell,763
+BLAINE,State Senate,16,DEM,Mike Fox,1642
+BLAINE,State Senate,17,REP,Mike Lang,948
+CASCADE,State Senate,10,REP,Steve Fitzpatrick,10018
+CASCADE,State Senate,15,REP,Ryan Osmundson,491
+Chouteau,State Senate,16,DEM,Mike Fox,212
+Flathead,State Senate,2,REP,Carl Gumm,8760
+Flathead,State Senate,3,DEM,Guthrie Quist,6588
+Flathead,State Senate,6,REP,Greg Hertz,5368
+Flathead,State Senate,7,REP,Bob Brown,1871
+Flathead,State Senate,2,DEM,Kyle Waterman,4066
+Flathead,State Senate,3,REP,Keith Regier,8334
+Flathead,State Senate,7,DEM,Diane Magone,397
+Blaine,State House,32,DEM,Jonathan Windy Boy,1356
+Blaine,State House,32,REP,Bruce Meyers,650
+Blaine,State House,33,REP,Casey Knudsen,927
+CARBON,State House,58,DEM,Betsy Scanlin,2402
+CARBON,State House,58,CARBON,Seth Berglee,4587
+Chouteau,State House,27,REP,Josh Kassmier,2350
+Chouteau,State House,32,REP,Bruce Meyers,27
+Chouteau,State House,32,DEM,Jonathan Windy Boy,198
+Fergus,State House,29,REP,Dan Bartel,4434
+Fergus,State House,30,REP,Wylie Galt,1020
+Fergus,State House,30,DEM,Cindy Palmer,199
+Flathead,State House,3,REP,Braxton Mitchell,3586
+Flathead,State House,4,REP,Matt Regier,5922
+Flathead,State House,5,DEM,Dave Fern,4482
+Flathead,State House,6,DEM,Jeramy Dear-Ruel,2294
+Flathead,State House,7,DEM,Ross Frazier,1475
+Flathead,State House,8,REP,John Fuller,5108
+Flathead,State House,9,REP,Brian Putnam,4142
+Flathead,State House,10,DEM,Jennifer Allen,1626
+Flathead,State House,11,REP,Derek Skees,5358
+Flathead,State House,13,REP,Paul Fielder,1775
+Flathead,State House,3,DEM,Debo Powers,2393
+Flathead,State House,5,REP,Catherine Owens,2978
+Flathead,State House,6,REP,Amy Regier,5187
+Flathead,State House,7,REP,Frank Garner,3089
+Flathead,State House,7,LIB,Nicholas Ramlow,260
+Flathead,State House,10,REP,Mark Noland,4337
+Flathead,State House,13,DEM,Colleen Hinds,395
+Flathead,State House,13,LIB,Cade Stiles,100
+Lewis & Clark,State Senate,35,REP,Walt Sales,2912
+Lewis & Clark,State Senate,40,DEM,Catherine Scott,5360
+Lewis & Clark,State Senate,40,REP,Terry Gauthier,7608
+Lewis & Clark,State House,17,DEM,Barnett Sporkin-Morrison,145
+Lewis & Clark,State House,70,REP,Julie Dooling,2972
+Lewis & Clark,State House,79,DEM,Rob Farris-Olsen,3749
+Lewis & Clark,State House,80,REP,Becky Beard,4754
+Lewis & Clark,State House,81,DEM,Mary Caferro,3478
+Lewis & Clark,State House,82,DEM,Moffie Funk,3446
+Lewis & Clark,State House,83,DEM,Kim Abbott,3021
+Lewis & Clark,State House,84,DEM,Mary Ann Dunwell,3256
+Lewis & Clark,State House,17,REP,Ross Fitzgerald,653
+Lewis & Clark,State House,79,REP,Dennison Rivera,3006
+Lewis & Clark,State House,80,LIB,Ron Vandevender,1086
+Lewis & Clark,State House,81,REP,Bob Leach,2776
+Lewis & Clark,State House,82,REP,Debbie Westlake,2717
+Lewis & Clark,State House,83,REP,Darin Gaub,2536
+Lewis & Clark,State House,84,REP,Charlie Hull,2819
+POWDER RIVER,State Senate,21,DEM,Rae Peppers,67
+POWDER RIVER,State Senate,21,REP,Jason Small,527
+Powder River,State House,37,REP,Jerry Schillinger,427
+Powder River,State House,41,DEM,Rynalea Whiteman Pena,194
+Powder River,State House,37,LIB,Jacob Kitson,51
+Silver Bow,Public Service Commissioner,PSC3,DEM,Tom Woods,10703
+Silver Bow,Public Service Commissioner,PSC3,REP,James Brown,7471
